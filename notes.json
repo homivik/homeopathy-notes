@@ -1,0 +1,470 @@
+[
+  {
+    "id": "hp1-p001",
+    "source_pdf": "Homeopathy_1",
+    "page": 1,
+    "date": "1995-02-27",
+    "date_raw": "February 27 Monday 1995",
+    "condition": "Diabetes",
+    "remedies": [
+      {
+        "name": "Syzygium Jambolanum",
+        "potency": null,
+        "note": "Most perfect medicine for diabetes. Boericke: no other remedy causes in so marked a degree the diminution and disappearance of sugar in the urine."
+      },
+      {
+        "name": "Acidum Phosphoricum",
+        "potency": "6",
+        "note": "Given as Acid Phos 6 + Uranium Nitricum 6."
+      },
+      {
+        "name": "Uranium Nitricum",
+        "potency": "6",
+        "note": "Acid Phos 6 + Uranium Nit 6. K.M.: no other remedy so markedly reduces sugar in the urine."
+      }
+    ],
+    "raw_text": "Diabities. Syzygium Jambolinum is the most perfect medicine for diabetes. Dr. Boericke says no other remedy causes in so marked degree the diminution and disappearance of sugar in the urine. Acid Phos 6 + Uranium Nitricum 6. K.M says no other remedy causes in so marked degree the diminution and disappearance of sugar in the urine."
+  },
+  {
+    "id": "hp1-p002",
+    "source_pdf": "Homeopathy_1",
+    "page": 2,
+    "date": "1995-03-01",
+    "date_raw": "Feb 28 / March 1 1995",
+    "condition": "Leucorrhoea (श्वेत प्रदर)",
+    "remedies": [
+      {
+        "name": "Sepia / Murex",
+        "potency": null,
+        "flag": "name uncertain",
+        "note": "Discharge yellow in colour, foul smell, itching and burning. (written 'Sibia-murex')"
+      },
+      {
+        "name": "Kreosotum",
+        "potency": null,
+        "note": "Discharge starts after pain subsides; yellow, stains clothes, foul smell; causes itching & burning where it touches the body."
+      },
+      {
+        "name": "Acidum Phosphoricum",
+        "potency": null,
+        "note": "For much weakness due to leucorrhoea / gonorrhoeal discharge etc."
+      },
+      {
+        "name": "Graphites",
+        "potency": null,
+        "note": "(listed 1x)"
+      },
+      {
+        "name": "Arum (muriaticum?)",
+        "potency": null,
+        "flag": "name uncertain",
+        "note": "(listed 2x)"
+      },
+      {
+        "name": "Natrum Muriaticum",
+        "potency": null,
+        "note": "(listed 3x, 'Nat mur')"
+      },
+      {
+        "name": "Agaricus Muscarius",
+        "potency": null,
+        "note": "Leucorrhoea with excessive itching."
+      }
+    ],
+    "raw_text": "Leucorrhoea. 1x discharge colour yellow, foul smell, itching and burning - Sepia/Murex. 2x pain subsides then discharge begins, yellow staining cloth, foul smell, itching & burning on skin - Kreosotum. 3x Acid Phos - white discharge / gonorrhoea etc causing much weakness; if leucorrhoea causes abortion then Electricus[?] ferri[?] ... Russian[?] remedy. 1x Graphites 2x Arum mur[?] 3x Nat mur. Agaricus muscarius - leucorrhoea with much itching.",
+    "needs_review": true
+  },
+  {
+    "id": "hp1-p003",
+    "source_pdf": "Homeopathy_1",
+    "page": 3,
+    "date": "1995-03-03",
+    "date_raw": "March 3-5 1995 (Fri-Sun)",
+    "condition": "Jaundice (कामला / पीलिया)",
+    "remedies": [
+      {
+        "name": "Natrum Sulphuricum",
+        "potency": "6x",
+        "note": "Bio-chemic remedy for jaundice."
+      },
+      {
+        "name": "Chelidonium",
+        "potency": null,
+        "note": "10 drops three times a day, for weakness."
+      },
+      {
+        "name": "China",
+        "potency": "6",
+        "note": "With Myrica[?]; related to jaundice."
+      },
+      {
+        "name": "Oxalicum Acidum",
+        "potency": null,
+        "flag": "name uncertain",
+        "note": "For weakness."
+      },
+      {
+        "name": "Berberis Aquifolium",
+        "potency": null,
+        "flag": "name uncertain"
+      },
+      {
+        "name": "Astacus Fluviatilis",
+        "potency": null,
+        "note": "Urticaria / nettle-rash, allergy, itching of skin, jaundice."
+      },
+      {
+        "name": "Carlsbad",
+        "potency": null,
+        "note": "Liver disorders, diabetes."
+      },
+      {
+        "name": "Carduus Marianus",
+        "potency": null
+      },
+      {
+        "name": "Chionanthus",
+        "potency": null,
+        "note": "Jaundice."
+      }
+    ],
+    "raw_text": "Jaundice. Cholelithiasis[?], jaundice, excess bile. 1x Natrum Sulphuricum 6x (Bio-chemic). 2x Chelidonium - 10 drops three times a day for weakness. China 6 (Myrica[?] ...). Oxalicum Acid - for weakness. Berberis Aquifolium[?]. Astacus Fluviatilis - urticaria / allergy / skin itching / jaundice. Carlsbad - liver, diabetes. Carduus Marianus. Chionanthus - jaundice.",
+    "needs_review": true
+  },
+  {
+    "id": "hp1-p004",
+    "source_pdf": "Homeopathy_1",
+    "page": 4,
+    "date": "1995-03-06",
+    "date_raw": "March 6-7 1995 (Mon-Tue)",
+    "condition": "Eosinophilia",
+    "remedies": [
+      {
+        "name": "Lachesis",
+        "potency": null,
+        "note": "A sure cure for such a tropical eosinophilia."
+      },
+      {
+        "name": "Opium",
+        "potency": null,
+        "note": "Desire to escape, in fever."
+      },
+      {
+        "name": "Belladonna",
+        "potency": null,
+        "note": "Other medicine."
+      },
+      {
+        "name": "Veratrum Album",
+        "potency": null,
+        "note": "Other medicine."
+      }
+    ],
+    "raw_text": "Eosinophilia. A disease showing increase above the normal number of eosinophils in the circulating blood or tissue. Patient takes a 'deep breath' resembling a long sigh, belaboured inspiration, chest constricted, aggravation during day time. Acute syndrome, often allergic; laboured respiration, asthmatic bronchial suffocations. 'Lachesis' is a sure cure for such a tropical eosinophilia. Desire to escape in fever - Opium; desire to escape in hysteria. Other medicines: Belladonna, Veratrum."
+  },
+  {
+    "id": "hp1-p005",
+    "source_pdf": "Homeopathy_1",
+    "page": 5,
+    "date": "1995-03-08",
+    "date_raw": "March 8-9 1995 (Wed-Thu)",
+    "condition": "Examination Fear / Nervousness",
+    "remedies": [
+      {
+        "name": "Anacardium",
+        "potency": null,
+        "note": "Examination fear in students."
+      },
+      {
+        "name": "Argentum Nitricum",
+        "potency": null,
+        "note": "Specific for examination funk; terror of anticipation. See also 'fright of examination'."
+      },
+      {
+        "name": "Gelsemium",
+        "potency": null,
+        "note": "For fussy children who are anxious about examinations in their school. (written 'Gels')"
+      },
+      {
+        "name": "Silicea",
+        "potency": null,
+        "note": "Weak-hearted, irritable, lacks stamina, gives up hope, over-nervous in school examination."
+      },
+      {
+        "name": "Lycopodium",
+        "potency": null,
+        "note": "Depression about passing examination. See brain fog & depression / gloominess."
+      }
+    ],
+    "raw_text": "Examination Fear. 1. Examination in student - 'Anacardium'. 2. Specific for examination funk, terror of anticipation (Arg. n). See fear under different heads and 'fright of examination'. Examination fussy children - Gelsemium ('Gels'). Examination nervousness: 1. weak-hearted, irritable, lacks stamina, gives up hope, over-nervous - Silicea. 2. depression about passing examination - Lycopodium."
+  },
+  {
+    "id": "hp1-p006",
+    "source_pdf": "Homeopathy_1",
+    "page": 6,
+    "date": "1995-03-10",
+    "date_raw": "March 10-12 1995 (Fri-Sun)",
+    "condition": "Blood Dysentery",
+    "remedies": [
+      {
+        "name": "Mercurius Corrosivus",
+        "potency": null,
+        "note": "Blood dysentery, tenesmus relieved by passing stool; hot bloody slimy offensive stool with cutting pain and shreds of mucous membrane; tenesmus of rectum extends to bladder, constant urging for urination and stool. Symptoms appear suddenly and vehemently. (Merc Cor)"
+      },
+      {
+        "name": "Nux Vomica",
+        "potency": null,
+        "note": "Compare with Merc Cor."
+      },
+      {
+        "name": "Terminalia Chebula (Haritaki / हरड़)",
+        "potency": null,
+        "note": "Bleeding piles, diarrhoea, chronic dysentery, constipation, colic, headache, vertigo, dropsy and some skin diseases - found efficacious."
+      },
+      {
+        "name": "Calcarea Phosphorica",
+        "potency": null,
+        "flag": "name uncertain"
+      }
+    ],
+    "raw_text": "Blood dysentery, tenesmus relieved by passing of stool; stool hot, bloody, slimy (muddy), offensive with cutting pains and shreds of mucous membrane. Must be tenesmus/urging of bladder and rectum at same time, urine passing in drops with much pain. Tenesmus of rectum extends to bladder so that Merc Cor may act or vice versa; constant urging for urination and stool. Merc Cor has intense symptoms appearing suddenly and vehemently (compare Nux vom). - Merc Cor. Terminalia Chebula (Haritaki) - bleeding piles, diarrhoea, chronic dysentery, constipation, colic, headache, vertigo, dropsy, some skin diseases. Calc phos[?].",
+    "needs_review": true
+  },
+  {
+    "id": "hp1-p007",
+    "source_pdf": "Homeopathy_1",
+    "page": 7,
+    "date": "1995-03-13",
+    "date_raw": "March 13 1995 (Mon)",
+    "condition": "B-Coli (Bacillus Coli)",
+    "remedies": [
+      {
+        "name": "Thuja",
+        "potency": "1M",
+        "note": "Specific; 1M dilution every week, later once a month."
+      },
+      {
+        "name": "Berberis (tincture)",
+        "potency": "mother tincture",
+        "note": "10 drops in a cup of warm water after every three hours."
+      },
+      {
+        "name": "Bacillus Coli",
+        "potency": "20 / 30",
+        "note": "Dr. Ghosh: B Coli in 20th or 30th potency may be given."
+      },
+      {
+        "name": "Methylene Blue",
+        "potency": "6",
+        "note": "Dr. Ghosh recommends Methylene blue in 6th potency."
+      }
+    ],
+    "raw_text": "B-Coli. 1. Thuja is specific, 1M dilution every week, later on once a month. 2. Tincture Berberis 10 drops may be given in a cup of warm water after every three hours. 3. According to Dr. Ghosh, B Coli in 20th or 30th potency may be given; he recommends Methylene blue in 6th potency."
+  },
+  {
+    "id": "hp1-p008",
+    "source_pdf": "Homeopathy_1",
+    "page": 8,
+    "date": "1995-03-15",
+    "date_raw": "March 15 1995 (Wed)",
+    "condition": "Birth Mark",
+    "remedies": [
+      {
+        "name": "Thuja",
+        "potency": "mother tincture",
+        "note": "Start treatment with Thuja; mother tincture applied externally morning and evening."
+      },
+      {
+        "name": "Radium Bromatum",
+        "potency": null,
+        "note": "Once a week along with Thuja; on that day Thuja should not be given. (written 'Radium Brome')"
+      },
+      {
+        "name": "Vaccininum",
+        "potency": "200",
+        "note": "200 dilution as an intercurrent remedy once a fortnight; no other medicine that day. See freckles, spots, yellow face."
+      }
+    ],
+    "raw_text": "Birth mark. 1. Treatment to be started with 'Thuja', the mother tincture applied externally morning and evening. 2. Radium Brome once a week along with Thuja; on that day Thuja should not be given. 3. Vaccininum 200 dilution as an intercurrent remedy once a fortnight; no other medicine that day. See freckles, spots and yellow sadden[?] face."
+  },
+  {
+    "id": "hp1-p009",
+    "source_pdf": "Homeopathy_1",
+    "page": 9,
+    "date": "1995-03-17",
+    "date_raw": "March 17-19 1995 (Fri-Sun)",
+    "condition": "Birth Control / Prevention of Conception",
+    "remedies": [
+      {
+        "name": "Natrum Muriaticum",
+        "potency": "200",
+        "note": "Three doses taken by women on the 1st, 2nd, 3rd day after cessation of the monthly course; repeat after every menses while conception is not desired."
+      },
+      {
+        "name": "Pulsatilla",
+        "potency": "200",
+        "note": "Taken four days continuously before the regular date of menstruation is sufficient to prevent conception."
+      },
+      {
+        "name": "Testis",
+        "potency": "3x",
+        "note": "Dr. Banerjee: 3 grains twice daily for seven days from day of cessation of menstruation each month; in many cases prevents pregnancy. A kind of nosode."
+      },
+      {
+        "name": "Cyclamen",
+        "potency": "mother tincture",
+        "note": "M.T 5 drops for 7-10 consecutive days from the day after cessation of menstruation; prevents conception."
+      },
+      {
+        "name": "Xanthoxylum",
+        "potency": "mother tincture",
+        "note": "M.T 5 drops, alternative to Cyclamen; prevents conception. See oral contraceptive."
+      }
+    ],
+    "raw_text": "Birth Control. A. Three doses of Nat. m. 200 taken by women on the first, second and third day after cessation of the monthly course; must be repeated after every menses till conception is not desired. B. If Puls 200 is taken four days continuously before the regular date of menstruation it will be sufficient to prevent conception. C. Dr. Banerjee: 1. Testis 3x, 3 grains twice daily for seven days from day of cessation of menstruation each month - prevents pregnancy (a kind of nosode). 2. Cyclamen M.T 5 drops or Xanthoxylum M.T 5 drops for 7-10 consecutive days from day after cessation of menstruation - prevent conception. See oral contraceptive."
+  },
+  {
+    "id": "hp1-p010",
+    "source_pdf": "Homeopathy_1",
+    "page": 10,
+    "date": "1995-03-20",
+    "date_raw": "March 20 1995 (Mon)",
+    "condition": "Eczema / Hair loss",
+    "remedies": [
+      {
+        "name": "Arsenicum Album",
+        "potency": "1M",
+        "note": "(listed 1x)"
+      },
+      {
+        "name": "Sulphur",
+        "potency": "1M",
+        "note": "(listed 2x)"
+      },
+      {
+        "name": "Sepia",
+        "potency": "1M",
+        "note": "(listed 3x)"
+      },
+      {
+        "name": "Natrum Muriaticum",
+        "potency": "1M",
+        "note": "(listed 4x)"
+      },
+      {
+        "name": "Thuja",
+        "potency": "1M",
+        "note": "(listed 5x)"
+      },
+      {
+        "name": "Causticum",
+        "potency": "1M",
+        "note": "One dose. For hair falling out from the roots (बाल जड़ बीच से उड़ जाएं)."
+      },
+      {
+        "name": "Equisetum",
+        "potency": "30",
+        "note": "Three times a day."
+      },
+      {
+        "name": "Vinca Minor",
+        "potency": null,
+        "note": "For hair fall (बाल उड़ता है)."
+      },
+      {
+        "name": "Acidum Phosphoricum",
+        "potency": "30",
+        "note": "With Selenium 30, four times a day."
+      },
+      {
+        "name": "Selenium",
+        "potency": "30",
+        "note": "With Acid phos 30, four times a day."
+      },
+      {
+        "name": "Calendula Officinalis",
+        "potency": null,
+        "flag": "context uncertain"
+      }
+    ],
+    "raw_text": "Eczema / Hair. 1x Arsenic alb 1M, 2x Sulphur 1M, 3x Sepia 1M, 4x Nat mur 1M, 5x Thuja 1M. Hair falling from roots: 1x Causticum 1M one dose, 2x Equisetum 30 three times a day, Vinca minor. Hair falls: 1x Acid phos 30 + 2x Selenium 30, four times a day. Calendula officinalis."
+  },
+  {
+    "id": "hp1-p011",
+    "source_pdf": "Homeopathy_1",
+    "page": 11,
+    "date": "1995-03-22",
+    "date_raw": "March 22-23 1995 (Wed-Thu)",
+    "condition": "Urinary complaints (dribbling urine, blood in urine, urinal trouble, high B.P., spleen)",
+    "remedies": [
+      {
+        "name": "Sulphur",
+        "potency": "200",
+        "note": "1 dose, once a month (for urine dribbling drop by drop)."
+      },
+      {
+        "name": "Sepia",
+        "potency": "200",
+        "note": "1 dose, once a month."
+      },
+      {
+        "name": "Natrum Muriaticum",
+        "potency": "200",
+        "note": "1 dose, once a month."
+      },
+      {
+        "name": "Vinca",
+        "potency": "30",
+        "note": "Four times a day."
+      },
+      {
+        "name": "Selenium",
+        "potency": "30",
+        "note": "Four times a day."
+      },
+      {
+        "name": "Phosphorus",
+        "potency": "200",
+        "note": "If the above fail."
+      },
+      {
+        "name": "Antimonium Tartaricum",
+        "potency": null,
+        "flag": "name uncertain",
+        "note": "For blood passed with urine (context Hindi)."
+      },
+      {
+        "name": "Cascara Sagrada",
+        "potency": "mixture",
+        "note": "Retention of urine / urinary passage trouble."
+      },
+      {
+        "name": "Berberis",
+        "potency": "mother tincture (Q)",
+        "note": "Urinal trouble / spleen / high B.P. (listed 1x)"
+      },
+      {
+        "name": "Damiana",
+        "potency": "mother tincture (Q)",
+        "note": "(listed 2x)"
+      },
+      {
+        "name": "Frangula",
+        "potency": "mother tincture (Q)",
+        "note": "(listed 3x)"
+      },
+      {
+        "name": "Ceanothus",
+        "potency": "mother tincture (Q)",
+        "note": "(listed 4x)"
+      },
+      {
+        "name": "Mancinella",
+        "potency": null,
+        "flag": "name uncertain"
+      }
+    ],
+    "raw_text": "Urine dribbles drop by drop. 1x Sulphur 200 1 dose, 2x Sepia 200 1 dose, 3x Nat mur 200 1 dose (once a month). 4x Vinca 30, 5x Selenium 30 (four times a day). If fails, Phosphorus 200. Blood with urine - Antim tart[?]. Retention of urine / urinary passage - Cascara Sagrada Mixture. Urinal trouble / Spleen / B.P. High: 1x Berberis Q, 2x Damiana Q, 3x Frangula Q, 4x Ceanothus Q. Mancinella[?].",
+    "needs_review": true
+  }
+]
