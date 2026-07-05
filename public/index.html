@@ -407,7 +407,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 18px;
+    gap: 14px;
     text-align: center;
     background: var(--surface);
     border: 1px solid var(--border-soft);
@@ -416,17 +416,8 @@
     box-shadow: var(--shadow-md);
     margin-bottom: 26px;
   }
-  .about-photo {
-    width: 116px;
-    height: 116px;
-    border-radius: 50%;
-    object-fit: cover;
-    flex-shrink: 0;
-    box-shadow: 0 0 0 4px var(--gold-tint), var(--shadow-md);
-  }
   .about-kicker {
     display: inline-block;
-    margin-bottom: 10px;
     font-size: 12px;
     font-weight: 700;
     letter-spacing: .06em;
@@ -435,28 +426,17 @@
     padding: 4px 12px;
     border-radius: var(--radius-full);
   }
+  .about-text {
+    max-width: 560px;
+  }
   .about-text p {
     margin: 0 0 12px;
     font-size: 16px;
     line-height: 1.7;
     color: var(--ink);
   }
-  .about-signature {
-    display: block;
-    margin-top: 4px;
-    font-family: 'Fraunces', 'Noto Sans Devanagari', serif;
-    font-style: italic;
-    font-size: 15px;
-    color: var(--primary-deep);
-  }
-  @media (min-width: 640px) {
-    .about-card {
-      flex-direction: row;
-      text-align: left;
-      align-items: flex-start;
-      padding: 32px;
-    }
-    .about-photo { width: 140px; height: 140px; }
+  .about-text p:last-child {
+    margin-bottom: 0;
   }
 </style>
 </head>
@@ -471,12 +451,10 @@
 
 <main class="content">
   <section class="about-card">
-    <img class="about-photo" src="dad-photo.jpg" alt="Krishan Mohan Srivastav">
+    <span class="about-kicker">परिचय</span>
     <div class="about-text">
-      <span class="about-kicker">परिचय</span>
-      <p>मुझे होम्योपैथी और एक्यूप्रेशर में शुरू से ख़ास दिलचस्पी रही है। 1990 के दशक से मैं इस विषय पर किताबें, वेबसाइटें और लेख पढ़ता आ रहा हूँ। यह सफ़र तब और गहरा हुआ जब मैं पिता बना — मुझे लगा कि हर छोटी-बड़ी तकलीफ़ के लिए बच्चों को एलोपैथिक दवाओं के संपर्क में लाना ज़रूरी नहीं। इसकी दो वजहें थीं: एक तो दवाओं की उपलब्धता की कमी, और दूसरी लंबे समय में सेहत पर पड़ने वाला असर।</p>
-      <p>मेरा मक़सद हमेशा से समाज सेवा रहा है — ज़रूरतमंद और वंचित लोगों तक सस्ती व असरदार दवा पहुँचाना, ताकि कोई भी पीछे न छूटे।</p>
-      <span class="about-signature">— कृष्ण मोहन श्रीवास्तव</span>
+      <p>होम्योपैथी और एक्यूप्रेशर में शुरू से ख़ास दिलचस्पी रही है। 1990 के दशक से इस विषय पर किताबें, वेबसाइटें और लेख पढ़ते आ रहे हैं। यह सफ़र तब और गहरा हुआ जब घर में बच्चे हुए — लगा कि हर छोटी-बड़ी तकलीफ़ के लिए उन्हें एलोपैथिक दवाओं के संपर्क में लाना ज़रूरी नहीं। इसकी दो वजहें थीं: एक तो दवाओं की उपलब्धता की कमी, और दूसरी लंबे समय में सेहत पर पड़ने वाला असर।</p>
+      <p>मक़सद हमेशा से समाज सेवा रहा है — ज़रूरतमंद और वंचित लोगों तक सस्ती व असरदार दवा पहुँचाना, ताकि कोई भी पीछे न छूटे।</p>
     </div>
   </section>
 
