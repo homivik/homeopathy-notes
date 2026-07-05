@@ -1,16 +1,17 @@
 [
   {
-    "id": "hp1-p001",
+    "id": "homeopathy_1-p001",
     "source_pdf": "Homeopathy_1",
     "page": 1,
     "date": "1995-02-27",
     "date_raw": "February 27 Monday 1995",
+    "type": "clinical",
     "condition": "Diabetes",
     "remedies": [
       {
         "name": "Syzygium Jambolanum",
         "potency": null,
-        "note": "Most perfect medicine for diabetes. Boericke: no other remedy causes in so marked a degree the diminution and disappearance of sugar in the urine."
+        "note": "Most perfect medicine for diabetes; reduces sugar in urine (Boericke)."
       },
       {
         "name": "Acidum Phosphoricum",
@@ -20,66 +21,101 @@
       {
         "name": "Uranium Nitricum",
         "potency": "6",
-        "note": "Acid Phos 6 + Uranium Nit 6. K.M.: no other remedy so markedly reduces sugar in the urine."
+        "note": "With Acid Phos 6. K.M: markedly reduces sugar in the urine."
       }
     ],
-    "raw_text": "Diabities. Syzygium Jambolinum is the most perfect medicine for diabetes. Dr. Boericke says no other remedy causes in so marked degree the diminution and disappearance of sugar in the urine. Acid Phos 6 + Uranium Nitricum 6. K.M says no other remedy causes in so marked degree the diminution and disappearance of sugar in the urine."
+    "raw_text": "Diabetes. Syzygium Jambolanum is the most perfect medicine for diabetes. Dr. Boericke: no other remedy causes in so marked a degree the diminution and disappearance of sugar in the urine. Acid Phos 6 + Uranium Nitricum 6. K.M: same claim."
   },
   {
-    "id": "hp1-p002",
+    "id": "homeopathy_1-p002",
     "source_pdf": "Homeopathy_1",
     "page": 2,
+    "date": "1995-02-28",
+    "date_raw": "February 28 Tuesday 1995",
+    "type": "clinical",
+    "condition": "Diabetes (continued)",
+    "remedies": [
+      {
+        "name": "Acidum Aceticum",
+        "potency": null,
+        "note": "Polyuria (बहुमूत्र) and abdominal disease; anaemia, pale face, insect bites, moles/warts, foot ailments."
+      },
+      {
+        "name": "Acidum Lacticum",
+        "potency": null,
+        "note": "Excessive urine, extreme constipation."
+      },
+      {
+        "name": "Arsenicum Bromatum",
+        "potency": null,
+        "note": "Skin disease and polyuria in pale/anaemic constitutions."
+      }
+    ],
+    "raw_text": "Acid Aceticum - famous for polyuria (बहुमूत्र) and abdominal disease; anaemia, face turning white, insect bites, moles/warts, foot diseases. Acid Lacticum - excessive urine, extreme constipation. Ars Brom - skin disease and polyuria in pale/anaemic constitutions."
+  },
+  {
+    "id": "homeopathy_1-p003",
+    "source_pdf": "Homeopathy_1",
+    "page": 3,
     "date": "1995-03-01",
-    "date_raw": "Feb 28 / March 1 1995",
+    "date_raw": "March 1-2 1995 (Wed-Thu)",
+    "type": "clinical",
     "condition": "Leucorrhoea (श्वेत प्रदर)",
     "remedies": [
       {
         "name": "Sepia / Murex",
         "potency": null,
-        "flag": "name uncertain",
-        "note": "Discharge yellow in colour, foul smell, itching and burning. (written 'Sibia-murex')"
+        "note": "Yellow discharge, foul smell, itching and burning.",
+        "flag": "name uncertain (written 'Sipia-murex')"
       },
       {
         "name": "Kreosotum",
         "potency": null,
-        "note": "Discharge starts after pain subsides; yellow, stains clothes, foul smell; causes itching & burning where it touches the body."
+        "note": "Discharge after menses stop; yellow, stains clothes, foul smell, itching & burning on contact."
       },
       {
         "name": "Acidum Phosphoricum",
         "potency": null,
-        "note": "For much weakness due to leucorrhoea / gonorrhoeal discharge etc."
+        "note": "Great weakness from white discharge / spermatorrhoea."
+      },
+      {
+        "name": "Electricus femineusia",
+        "potency": null,
+        "note": "For abortion caused by leucorrhoea.",
+        "flag": "name uncertain"
       },
       {
         "name": "Graphites",
         "potency": null,
-        "note": "(listed 1x)"
+        "note": ""
       },
       {
-        "name": "Arum (muriaticum?)",
+        "name": "Arum Muriaticum",
         "potency": null,
-        "flag": "name uncertain",
-        "note": "(listed 2x)"
+        "note": "",
+        "flag": "name uncertain"
       },
       {
         "name": "Natrum Muriaticum",
         "potency": null,
-        "note": "(listed 3x, 'Nat mur')"
+        "note": ""
       },
       {
         "name": "Agaricus Muscarius",
         "potency": null,
-        "note": "Leucorrhoea with excessive itching."
+        "note": "Discharge with extreme itching."
       }
     ],
-    "raw_text": "Leucorrhoea. 1x discharge colour yellow, foul smell, itching and burning - Sepia/Murex. 2x pain subsides then discharge begins, yellow staining cloth, foul smell, itching & burning on skin - Kreosotum. 3x Acid Phos - white discharge / gonorrhoea etc causing much weakness; if leucorrhoea causes abortion then Electricus[?] ferri[?] ... Russian[?] remedy. 1x Graphites 2x Arum mur[?] 3x Nat mur. Agaricus muscarius - leucorrhoea with much itching.",
+    "raw_text": "Yellow discharge, foul smell, itching and burning - Sepia / Murex. Discharge begins when menses stop, yellow, stains clothes, foul smell, itching & burning on skin - Kreosotum. Acid Phos - great weakness from white discharge / spermatorrhoea. If leucorrhoea causes abortion - Electricus femineusia[?]. Graphites, Arum mur, Nat mur, Agaricus Muscarius (discharge with extreme itching).",
     "needs_review": true
   },
   {
-    "id": "hp1-p003",
+    "id": "homeopathy_1-p004",
     "source_pdf": "Homeopathy_1",
-    "page": 3,
+    "page": 4,
     "date": "1995-03-03",
     "date_raw": "March 3-5 1995 (Fri-Sun)",
+    "type": "clinical",
     "condition": "Jaundice (कामला / पीलिया)",
     "remedies": [
       {
@@ -89,60 +125,65 @@
       },
       {
         "name": "Chelidonium",
-        "potency": null,
+        "potency": "mother tincture (Q)",
         "note": "10 drops three times a day, for weakness."
       },
       {
         "name": "China",
         "potency": "6",
-        "note": "With Myrica[?]; related to jaundice."
+        "note": "With Myrica; liver and mucous membranes."
+      },
+      {
+        "name": "Myrica Cerifera",
+        "potency": null,
+        "note": "Liver issues, affected mucous membranes."
       },
       {
         "name": "Oxalicum Acidum",
         "potency": null,
-        "flag": "name uncertain",
-        "note": "For weakness."
+        "note": "Stitching/needle-like pain in liver."
       },
       {
         "name": "Berberis Aquifolium",
-        "potency": null,
-        "flag": "name uncertain"
+        "potency": "mother tincture (Q)",
+        "note": "Liver weakness."
       },
       {
         "name": "Astacus Fluviatilis",
         "potency": null,
-        "note": "Urticaria / nettle-rash, allergy, itching of skin, jaundice."
+        "note": "Skin symptoms, urticaria, neck gland swelling, jaundice."
       },
       {
         "name": "Carlsbad",
-        "potency": null,
-        "note": "Liver disorders, diabetes."
+        "potency": "6",
+        "note": "Liver action."
       },
       {
         "name": "Carduus Marianus",
-        "potency": null
+        "potency": null,
+        "note": "Liver disease in alcoholics."
       },
       {
         "name": "Chionanthus",
         "potency": null,
-        "note": "Jaundice."
+        "note": "Jaundice and constipation."
       }
     ],
-    "raw_text": "Jaundice. Cholelithiasis[?], jaundice, excess bile. 1x Natrum Sulphuricum 6x (Bio-chemic). 2x Chelidonium - 10 drops three times a day for weakness. China 6 (Myrica[?] ...). Oxalicum Acid - for weakness. Berberis Aquifolium[?]. Astacus Fluviatilis - urticaria / allergy / skin itching / jaundice. Carlsbad - liver, diabetes. Carduus Marianus. Chionanthus - jaundice.",
-    "needs_review": true
+    "raw_text": "Jaundice, difficult enlargement of liver, gallstones. Natrum Sulphuricum 6x (bio-chemic). Chelidonium Q - 10 drops three times a day for weakness. China 6, Myrica (liver, mucous membranes). Stitching pain in liver - Oxalicum Acidum. Liver weakness - Berberis Aquifolium Q. Astacus Fluviatilis - skin symptoms, urticaria, neck gland swelling, jaundice. Carlsbad 6 - liver action. Carduus Marianus - liver disease in alcoholics. Chionanthus - jaundice and constipation."
   },
   {
-    "id": "hp1-p004",
+    "id": "homeopathy_1-p005",
     "source_pdf": "Homeopathy_1",
-    "page": 4,
+    "page": 5,
     "date": "1995-03-06",
-    "date_raw": "March 6-7 1995 (Mon-Tue)",
+    "date_raw": "March 6 1995 (Mon)",
+    "type": "clinical",
     "condition": "Eosinophilia",
     "remedies": [
       {
         "name": "Lachesis",
         "potency": null,
-        "note": "A sure cure for such a tropical eosinophilia."
+        "note": "A sure cure for eosinophilia."
       },
       {
         "name": "Opium",
@@ -152,23 +193,24 @@
       {
         "name": "Belladonna",
         "potency": null,
-        "note": "Other medicine."
+        "note": "Desire to escape, in hysteria."
       },
       {
         "name": "Veratrum Album",
         "potency": null,
-        "note": "Other medicine."
+        "note": "Desire to escape, in hysteria."
       }
     ],
-    "raw_text": "Eosinophilia. A disease showing increase above the normal number of eosinophils in the circulating blood or tissue. Patient takes a 'deep breath' resembling a long sigh, belaboured inspiration, chest constricted, aggravation during day time. Acute syndrome, often allergic; laboured respiration, asthmatic bronchial suffocations. 'Lachesis' is a sure cure for such a tropical eosinophilia. Desire to escape in fever - Opium; desire to escape in hysteria. Other medicines: Belladonna, Veratrum."
+    "raw_text": "Increase above normal number of eosinophils in circulating blood or tissue. Patient takes a deep breath resembling a long sigh; laboured inspiration; chest constricted; aggravation in daytime. Lachesis is a sure cure. Desire to escape in fever - Opium; in hysteria - Belladonna, Veratrum."
   },
   {
-    "id": "hp1-p005",
+    "id": "homeopathy_1-p006",
     "source_pdf": "Homeopathy_1",
-    "page": 5,
+    "page": 6,
     "date": "1995-03-08",
-    "date_raw": "March 8-9 1995 (Wed-Thu)",
-    "condition": "Examination Fear / Nervousness",
+    "date_raw": "March 8 1995 (Wed)",
+    "type": "clinical",
+    "condition": "Examination Fear",
     "remedies": [
       {
         "name": "Anacardium",
@@ -178,293 +220,5620 @@
       {
         "name": "Argentum Nitricum",
         "potency": null,
-        "note": "Specific for examination funk; terror of anticipation. See also 'fright of examination'."
+        "note": "Specific for examination funk / terror of anticipation."
       },
       {
         "name": "Gelsemium",
         "potency": null,
-        "note": "For fussy children who are anxious about examinations in their school. (written 'Gels')"
+        "note": "Examination funk; fussy anxious children."
       },
       {
         "name": "Silicea",
         "potency": null,
-        "note": "Weak-hearted, irritable, lacks stamina, gives up hope, over-nervous in school examination."
+        "note": "Weak-hearted, over-nervous in examination."
       },
       {
         "name": "Lycopodium",
         "potency": null,
-        "note": "Depression about passing examination. See brain fog & depression / gloominess."
+        "note": "Depression about passing exams; brain fog."
       }
     ],
-    "raw_text": "Examination Fear. 1. Examination in student - 'Anacardium'. 2. Specific for examination funk, terror of anticipation (Arg. n). See fear under different heads and 'fright of examination'. Examination fussy children - Gelsemium ('Gels'). Examination nervousness: 1. weak-hearted, irritable, lacks stamina, gives up hope, over-nervous - Silicea. 2. depression about passing examination - Lycopodium."
+    "raw_text": "In students - Anacardium. Specific for examination funk / terror - Argentum Nitricum, Gelsemium. Nervousness / weak heart - Silicea, Lycopodium (for brain fog)."
   },
   {
-    "id": "hp1-p006",
+    "id": "homeopathy_1-p007",
     "source_pdf": "Homeopathy_1",
-    "page": 6,
+    "page": 7,
     "date": "1995-03-10",
-    "date_raw": "March 10-12 1995 (Fri-Sun)",
+    "date_raw": "March 10-11 1995 (Fri-Sat)",
+    "type": "clinical",
     "condition": "Blood Dysentery",
     "remedies": [
       {
         "name": "Mercurius Corrosivus",
         "potency": null,
-        "note": "Blood dysentery, tenesmus relieved by passing stool; hot bloody slimy offensive stool with cutting pain and shreds of mucous membrane; tenesmus of rectum extends to bladder, constant urging for urination and stool. Symptoms appear suddenly and vehemently. (Merc Cor)"
-      },
-      {
-        "name": "Nux Vomica",
-        "potency": null,
-        "note": "Compare with Merc Cor."
+        "note": "Hot bloody slimy offensive stool with cutting pains; simultaneous urging of bladder and rectum."
       },
       {
         "name": "Terminalia Chebula (Haritaki / हरड़)",
         "potency": null,
-        "note": "Bleeding piles, diarrhoea, chronic dysentery, constipation, colic, headache, vertigo, dropsy and some skin diseases - found efficacious."
-      },
-      {
-        "name": "Calcarea Phosphorica",
-        "potency": null,
-        "flag": "name uncertain"
+        "note": "Bleeding piles, diarrhoea, chronic dysentery, constipation."
       }
     ],
-    "raw_text": "Blood dysentery, tenesmus relieved by passing of stool; stool hot, bloody, slimy (muddy), offensive with cutting pains and shreds of mucous membrane. Must be tenesmus/urging of bladder and rectum at same time, urine passing in drops with much pain. Tenesmus of rectum extends to bladder so that Merc Cor may act or vice versa; constant urging for urination and stool. Merc Cor has intense symptoms appearing suddenly and vehemently (compare Nux vom). - Merc Cor. Terminalia Chebula (Haritaki) - bleeding piles, diarrhoea, chronic dysentery, constipation, colic, headache, vertigo, dropsy, some skin diseases. Calc phos[?].",
-    "needs_review": true
+    "raw_text": "Stool hot, bloody, slimy (muddy), offensive with cutting pains; urging of bladder and rectum at the same time - Merc Cor. Terminalia Chebula (बवासीर, piles) - bleeding piles, diarrhoea, chronic dysentery, constipation, etc."
   },
   {
-    "id": "hp1-p007",
+    "id": "homeopathy_1-p008",
     "source_pdf": "Homeopathy_1",
-    "page": 7,
+    "page": 8,
     "date": "1995-03-13",
     "date_raw": "March 13 1995 (Mon)",
+    "type": "clinical",
     "condition": "B-Coli (Bacillus Coli)",
     "remedies": [
       {
         "name": "Thuja",
         "potency": "1M",
-        "note": "Specific; 1M dilution every week, later once a month."
+        "note": "Specific; every week, later once a month."
       },
       {
         "name": "Berberis (tincture)",
-        "potency": "mother tincture",
-        "note": "10 drops in a cup of warm water after every three hours."
+        "potency": "mother tincture (Q)",
+        "note": "10 drops in warm water every three hours."
       },
       {
         "name": "Bacillus Coli",
         "potency": "20 / 30",
-        "note": "Dr. Ghosh: B Coli in 20th or 30th potency may be given."
+        "note": "Dr. Ghosh: 20th or 30th potency."
       },
       {
         "name": "Methylene Blue",
         "potency": "6",
-        "note": "Dr. Ghosh recommends Methylene blue in 6th potency."
+        "note": "Dr. Ghosh recommends 6th potency."
       }
     ],
-    "raw_text": "B-Coli. 1. Thuja is specific, 1M dilution every week, later on once a month. 2. Tincture Berberis 10 drops may be given in a cup of warm water after every three hours. 3. According to Dr. Ghosh, B Coli in 20th or 30th potency may be given; he recommends Methylene blue in 6th potency."
+    "raw_text": "Thuja - 1M dilution every week, later once a month. Berberis tincture - 10 drops in warm water every three hours. Dr. Ghosh: B Coli in 20th or 30th potency; Methylene blue in 6th potency."
   },
   {
-    "id": "hp1-p008",
+    "id": "homeopathy_1-p009",
     "source_pdf": "Homeopathy_1",
-    "page": 8,
+    "page": 9,
     "date": "1995-03-15",
     "date_raw": "March 15 1995 (Wed)",
+    "type": "clinical",
     "condition": "Birth Mark",
     "remedies": [
       {
         "name": "Thuja",
         "potency": "mother tincture",
-        "note": "Start treatment with Thuja; mother tincture applied externally morning and evening."
+        "note": "Applied externally morning and evening."
       },
       {
         "name": "Radium Bromatum",
         "potency": null,
-        "note": "Once a week along with Thuja; on that day Thuja should not be given. (written 'Radium Brome')"
+        "note": "Once a week; do not give Thuja on that day."
       },
       {
         "name": "Vaccininum",
         "potency": "200",
-        "note": "200 dilution as an intercurrent remedy once a fortnight; no other medicine that day. See freckles, spots, yellow face."
+        "note": "Once a fortnight."
       }
     ],
-    "raw_text": "Birth mark. 1. Treatment to be started with 'Thuja', the mother tincture applied externally morning and evening. 2. Radium Brome once a week along with Thuja; on that day Thuja should not be given. 3. Vaccininum 200 dilution as an intercurrent remedy once a fortnight; no other medicine that day. See freckles, spots and yellow sadden[?] face."
+    "raw_text": "Thuja mother tincture applied externally morning and evening. Radium Brome once a week (do not give Thuja that day). Vaccininum 200 once a fortnight."
   },
   {
-    "id": "hp1-p009",
+    "id": "homeopathy_1-p010",
     "source_pdf": "Homeopathy_1",
-    "page": 9,
+    "page": 10,
     "date": "1995-03-17",
     "date_raw": "March 17-19 1995 (Fri-Sun)",
+    "type": "clinical",
     "condition": "Birth Control / Prevention of Conception",
     "remedies": [
       {
         "name": "Natrum Muriaticum",
         "potency": "200",
-        "note": "Three doses taken by women on the 1st, 2nd, 3rd day after cessation of the monthly course; repeat after every menses while conception is not desired."
+        "note": "Three doses on first 3 days after menses end; repeat each cycle while conception not desired."
       },
       {
         "name": "Pulsatilla",
         "potency": "200",
-        "note": "Taken four days continuously before the regular date of menstruation is sufficient to prevent conception."
+        "note": "Four days continuously before the expected date of menstruation."
       },
       {
         "name": "Testis",
         "potency": "3x",
-        "note": "Dr. Banerjee: 3 grains twice daily for seven days from day of cessation of menstruation each month; in many cases prevents pregnancy. A kind of nosode."
+        "note": "Dr. Banerjee: 3 grains twice daily for 7 days from cessation of menses."
       },
       {
         "name": "Cyclamen",
         "potency": "mother tincture",
-        "note": "M.T 5 drops for 7-10 consecutive days from the day after cessation of menstruation; prevents conception."
-      },
-      {
-        "name": "Xanthoxylum",
-        "potency": "mother tincture",
-        "note": "M.T 5 drops, alternative to Cyclamen; prevents conception. See oral contraceptive."
+        "note": "5 drops for 7-10 days after menses; prevents conception."
       }
     ],
-    "raw_text": "Birth Control. A. Three doses of Nat. m. 200 taken by women on the first, second and third day after cessation of the monthly course; must be repeated after every menses till conception is not desired. B. If Puls 200 is taken four days continuously before the regular date of menstruation it will be sufficient to prevent conception. C. Dr. Banerjee: 1. Testis 3x, 3 grains twice daily for seven days from day of cessation of menstruation each month - prevents pregnancy (a kind of nosode). 2. Cyclamen M.T 5 drops or Xanthoxylum M.T 5 drops for 7-10 consecutive days from day after cessation of menstruation - prevent conception. See oral contraceptive."
+    "raw_text": "A. Three doses of Nat. m. 200 on the first three days after the monthly course ends. B. Puls 200 taken four days continuously before the expected date of menses. C. Dr. Banerjee: Testis 3x (3 grains twice daily for 7 days), Cyclamen mother tincture."
   },
   {
-    "id": "hp1-p010",
+    "id": "homeopathy_1-p011",
     "source_pdf": "Homeopathy_1",
-    "page": 10,
+    "page": 11,
     "date": "1995-03-20",
     "date_raw": "March 20 1995 (Mon)",
-    "condition": "Eczema / Hair loss",
+    "type": "clinical",
+    "condition": "Hair loss (under Eczema)",
     "remedies": [
       {
         "name": "Arsenicum Album",
         "potency": "1M",
-        "note": "(listed 1x)"
+        "note": "Hair loss."
       },
       {
         "name": "Sulphur",
         "potency": "1M",
-        "note": "(listed 2x)"
+        "note": "Hair loss."
       },
       {
         "name": "Sepia",
         "potency": "1M",
-        "note": "(listed 3x)"
+        "note": "Hair loss."
       },
       {
         "name": "Natrum Muriaticum",
         "potency": "1M",
-        "note": "(listed 4x)"
+        "note": "Hair loss."
       },
       {
         "name": "Thuja",
         "potency": "1M",
-        "note": "(listed 5x)"
+        "note": "Hair loss."
       },
       {
         "name": "Causticum",
         "potency": "1M",
-        "note": "One dose. For hair falling out from the roots (बाल जड़ बीच से उड़ जाएं)."
+        "note": "Hair falling from the centre/crown."
       },
       {
         "name": "Equisetum",
         "potency": "30",
-        "note": "Three times a day."
+        "note": "Hair falling from the centre/crown."
       },
       {
         "name": "Vinca Minor",
         "potency": null,
-        "note": "For hair fall (बाल उड़ता है)."
+        "note": "Falling hair."
       },
       {
         "name": "Acidum Phosphoricum",
         "potency": "30",
-        "note": "With Selenium 30, four times a day."
+        "note": "Falling hair."
       },
       {
         "name": "Selenium",
         "potency": "30",
-        "note": "With Acid phos 30, four times a day."
-      },
-      {
-        "name": "Calendula Officinalis",
-        "potency": null,
-        "flag": "context uncertain"
+        "note": "Falling hair."
       }
     ],
-    "raw_text": "Eczema / Hair. 1x Arsenic alb 1M, 2x Sulphur 1M, 3x Sepia 1M, 4x Nat mur 1M, 5x Thuja 1M. Hair falling from roots: 1x Causticum 1M one dose, 2x Equisetum 30 three times a day, Vinca minor. Hair falls: 1x Acid phos 30 + 2x Selenium 30, four times a day. Calendula officinalis."
+    "raw_text": "Hair loss - Arsenic alb 1M, Sulphur 1M, Sepia 1M, Nat mur 1M, Thuja 1M. Hair falling from the centre (डुनकी) - Causticum 1M, Equisetum 30, Vinca minor. Falling hair - Acid phos 30, Selenium 30."
   },
   {
-    "id": "hp1-p011",
+    "id": "homeopathy_1-p012",
     "source_pdf": "Homeopathy_1",
-    "page": 11,
+    "page": 12,
     "date": "1995-03-22",
-    "date_raw": "March 22-23 1995 (Wed-Thu)",
-    "condition": "Urinary complaints (dribbling urine, blood in urine, urinal trouble, high B.P., spleen)",
+    "date_raw": "March 22 1995 (Wed)",
+    "type": "clinical",
+    "condition": "Urinary complaints (बूँद बूँद पेशाब / dribbling)",
     "remedies": [
       {
         "name": "Sulphur",
         "potency": "200",
-        "note": "1 dose, once a month (for urine dribbling drop by drop)."
+        "note": "Dribbling urine; once a month."
       },
       {
         "name": "Sepia",
         "potency": "200",
-        "note": "1 dose, once a month."
+        "note": "Once a month."
       },
       {
         "name": "Natrum Muriaticum",
         "potency": "200",
-        "note": "1 dose, once a month."
+        "note": "Once a month."
       },
       {
         "name": "Vinca",
         "potency": "30",
-        "note": "Four times a day."
+        "note": "Daily use."
       },
       {
         "name": "Selenium",
         "potency": "30",
-        "note": "Four times a day."
+        "note": "Daily use."
       },
       {
         "name": "Phosphorus",
         "potency": "200",
-        "note": "If the above fail."
-      },
-      {
-        "name": "Antimonium Tartaricum",
-        "potency": null,
-        "flag": "name uncertain",
-        "note": "For blood passed with urine (context Hindi)."
+        "note": "Daily use."
       },
       {
         "name": "Cascara Sagrada",
         "potency": "mixture",
-        "note": "Retention of urine / urinary passage trouble."
+        "note": "Difficult urination."
       },
       {
         "name": "Berberis",
         "potency": "mother tincture (Q)",
-        "note": "Urinal trouble / spleen / high B.P. (listed 1x)"
+        "note": "Urinal trouble / spleen / high B.P."
       },
       {
         "name": "Damiana",
         "potency": "mother tincture (Q)",
-        "note": "(listed 2x)"
+        "note": ""
       },
       {
         "name": "Frangula",
         "potency": "mother tincture (Q)",
-        "note": "(listed 3x)"
+        "note": "",
+        "flag": "written 'Trangulas'"
       },
       {
         "name": "Ceanothus",
         "potency": "mother tincture (Q)",
-        "note": "(listed 4x)"
+        "note": "",
+        "flag": "written 'Ceonathus'"
+      }
+    ],
+    "raw_text": "Dribbling urine - Sulphur 200, Sepia 200, Nat mur 200 (once a month). Daily use - Vinca 30, Selenium 30, Phosphorus 200. Difficult urination - Cascara Sagrada Mixture. Berberis Q, Damiana Q, Frangula Q, Ceanothus Q."
+  },
+  {
+    "id": "homeopathy_1-p013",
+    "source_pdf": "Homeopathy_1",
+    "page": 13,
+    "date": "1995-03-24",
+    "date_raw": "March 24 1995 (Fri)",
+    "type": "clinical",
+    "condition": "Sexual debility",
+    "remedies": [
+      {
+        "name": "Argentum Nitricum",
+        "potency": null,
+        "note": "Sexual debility."
       },
       {
-        "name": "Mancinella",
+        "name": "Titanium",
+        "potency": "30",
+        "note": ""
+      },
+      {
+        "name": "Carbonium Sulphuratum",
         "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Anacardium",
+        "potency": "12",
+        "note": ""
+      },
+      {
+        "name": "Onosmodium",
+        "potency": null,
+        "note": "",
+        "flag": "written 'Onasmodium'"
+      },
+      {
+        "name": "Agnus Castus",
+        "potency": null,
+        "note": "Impotence, cold/shrunken organs, loss of desire in both sexes.",
+        "flag": "written 'Agnus Causticum'"
+      },
+      {
+        "name": "Causticum",
+        "potency": null,
+        "note": "",
+        "flag": "grouped with Agnus in notes"
+      }
+    ],
+    "raw_text": "Argentum Nit, Titanium 30, Carbonium Sulph, Anacardium 12, Onosmodium, Agnus Castus / Causticum. Agnus acts for impotence, cold/shrunken organs, and loss of desire in both sexes."
+  },
+  {
+    "id": "homeopathy_1-p014",
+    "source_pdf": "Homeopathy_1",
+    "page": 14,
+    "date": "1995-03-27",
+    "date_raw": "March 27 1995 (Mon)",
+    "type": "clinical",
+    "condition": "Painful Erections / Impotence",
+    "remedies": [
+      {
+        "name": "Kali Bromatum",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Cantharis",
+        "potency": null,
+        "note": "",
+        "flag": "written 'Canthar'"
+      },
+      {
+        "name": "Mygale Lasiodora",
+        "potency": null,
+        "note": "",
+        "flag": "written 'Mygale lasidora'"
+      },
+      {
+        "name": "Sulphur",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Agaricus",
+        "potency": null,
+        "note": "",
+        "flag": "written 'Agricus'"
+      },
+      {
+        "name": "Cedron",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Conium Maculatum",
+        "potency": null,
+        "note": "Weakness after intense desire but inability to perform; effects of suppressed desire."
+      }
+    ],
+    "raw_text": "Kali Brom, Cantharis, Mygale Lasiodora, Sulphur, Agaricus, Cedron. Conium maculatum - weakness after intense desire but inability to perform; mental effects of suppressed desire."
+  },
+  {
+    "id": "homeopathy_1-p015",
+    "source_pdf": "Homeopathy_1",
+    "page": 15,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Skin Diseases (cross-ref pp.10,46,64)",
+    "remedies": [
+      {
+        "name": "Hypericum",
+        "potency": null,
+        "note": "Fingers/toes."
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": null,
+        "note": "Eczema on head."
+      },
+      {
+        "name": "Kanchliria",
+        "potency": null,
+        "note": "Dandruff.",
+        "flag": "name uncertain"
+      },
+      {
+        "name": "Kilmetis",
+        "potency": null,
+        "note": "Neck skin.",
+        "flag": "name uncertain"
+      },
+      {
+        "name": "Alumina",
+        "potency": null,
+        "note": "Itching until it bleeds."
+      },
+      {
+        "name": "Mezereum",
+        "potency": null,
+        "note": "Thick crusts on head."
+      }
+    ],
+    "raw_text": "Hypericum (fingers/toes), Calc Carb (eczema on head), Kanchliria[?] (dandruff), Kilmetis[?] (neck skin), Alumina (itching until bleeding), Mezereum (thick crusts on head).",
+    "needs_review": true
+  },
+  {
+    "id": "homeopathy_1-p016",
+    "source_pdf": "Homeopathy_1",
+    "page": 16,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Indigestion (अजीर्ण / बदहजमी)",
+    "remedies": [
+      {
+        "name": "Fluoricum Acidum",
+        "potency": null,
+        "note": "Bloating and pain.",
+        "flag": "written 'Acid Flor'"
+      },
+      {
+        "name": "Carica Papaya",
+        "potency": null,
+        "note": "Cannot digest even a little food."
+      },
+      {
+        "name": "Ferrum Cyanatum",
+        "potency": null,
+        "note": "Burning and bloating."
+      },
+      {
+        "name": "Kreosotum",
+        "potency": null,
+        "note": "Vomiting long after eating."
+      }
+    ],
+    "raw_text": "Acid Fluor - bloating and pain. Carica Papaya - cannot digest even a little food. Ferrum Cyan - burning and bloating. Kreosotum - vomiting long after eating."
+  },
+  {
+    "id": "homeopathy_1-p017",
+    "source_pdf": "Homeopathy_1",
+    "page": 17,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Kidney / Gallstones (पथरी)",
+    "remedies": [
+      {
+        "name": "Berberis Vulgaris",
+        "potency": "mother tincture (Q)",
+        "note": "Left kidney stone; 10 drops every 4 hours."
+      },
+      {
+        "name": "Lycopodium",
+        "potency": "30",
+        "note": "Right kidney stone."
+      },
+      {
+        "name": "Cholesterinum",
+        "potency": null,
+        "note": "Gallstones.",
+        "flag": "written 'Cholestrin'"
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": null,
+        "note": "Gallstones."
+      },
+      {
+        "name": "Benzoicum Acidum",
+        "potency": null,
+        "note": "General kidney trouble."
+      }
+    ],
+    "raw_text": "Left kidney stone - Berberis Vulgaris M.T. (10 drops every 4 hours). Right kidney stone - Lycopodium 30. Gallstones - Cholesterinum, Calc Carb. General kidney trouble - Benzoicum Acid."
+  },
+  {
+    "id": "homeopathy_1-p018",
+    "source_pdf": "Homeopathy_1",
+    "page": 18,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Eyes",
+    "remedies": [
+      {
+        "name": "Artemisia Vulgaris",
+        "potency": null,
+        "note": "Eye injury.",
+        "flag": "written 'Artimisia V'"
+      },
+      {
+        "name": "Carboneum Oxygenisatum",
+        "potency": "8-30",
+        "note": "Paralysis of eye.",
+        "flag": "written 'Carbonium oxy'"
+      },
+      {
+        "name": "Refenus",
+        "potency": null,
+        "note": "Watery eyes / eyelid twitching.",
+        "flag": "name uncertain"
+      },
+      {
+        "name": "Sabadilla",
+        "potency": "30",
+        "note": "Watery eyes / eyelid twitching."
+      },
+      {
+        "name": "Phytolacca",
+        "potency": null,
+        "note": "Throat / mouth ulcers."
+      }
+    ],
+    "raw_text": "Injury - Artemisia Vulgaris. Paralysis - Carboneum Oxygenisatum 8-30. Watery eyes / eyelid twitching - Refenus[?], Sabadilla 30. Throat/mouth ulcers - Phytolacca."
+  },
+  {
+    "id": "homeopathy_1-p019",
+    "source_pdf": "Homeopathy_1",
+    "page": 19,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Ear (कान)",
+    "remedies": [
+      {
+        "name": "Calcarea Sulphurica",
+        "potency": null,
+        "note": "Ear pain / pus."
+      },
+      {
+        "name": "Kali Bichromicum",
+        "potency": null,
+        "note": "Ear pain / pus."
+      },
+      {
+        "name": "Tellurium",
+        "potency": null,
+        "note": "Ear pain / pus.",
+        "flag": "written 'Telurium'"
+      },
+      {
+        "name": "Silicea",
+        "potency": null,
+        "note": "Ear pain / pus."
+      },
+      {
+        "name": "Arum Muriaticum",
+        "potency": "6",
+        "note": "Foul pus."
+      },
+      {
+        "name": "Psorinum",
+        "potency": null,
+        "note": "Foul pus."
+      },
+      {
+        "name": "Chenopodium",
+        "potency": null,
+        "note": "Dizziness from ear issues."
+      },
+      {
+        "name": "Belladonna",
+        "potency": null,
+        "note": "Eardrum inflammation."
+      }
+    ],
+    "raw_text": "Pain/pus - Calcarea Sulph, Kali Bichrom, Tellurium, Silicea. Foul pus - Arum mur 6, Psorinum. Dizziness from ear issues - Chenopodium. Eardrum inflammation - Belladonna."
+  },
+  {
+    "id": "homeopathy_1-p020",
+    "source_pdf": "Homeopathy_1",
+    "page": 20,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Bone Diseases",
+    "remedies": [
+      {
+        "name": "Mezereum",
+        "potency": null,
+        "note": "Bone pain at night."
+      },
+      {
+        "name": "Hecla Lava",
+        "potency": null,
+        "note": "Bone pain at night.",
+        "flag": "written 'Hecla Lawa'"
+      },
+      {
+        "name": "Fluoricum Acidum",
+        "potency": null,
+        "note": "Bone pain at night."
+      },
+      {
+        "name": "Cobaltum",
+        "potency": null,
+        "note": "Morning bone pain / fatigue."
+      }
+    ],
+    "raw_text": "Bone pain at night - Mezereum, Hecla Lava, Fluoricum Acid. Morning bone pain / fatigue - Cobaltum."
+  },
+  {
+    "id": "homeopathy_1-p021",
+    "source_pdf": "Homeopathy_1",
+    "page": 21,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Blood Pressure",
+    "remedies": [
+      {
+        "name": "Sparteinum",
+        "potency": "1x",
+        "note": "High BP."
+      },
+      {
+        "name": "Rauwolfia",
+        "potency": "mother tincture (Q)",
+        "note": "High BP."
+      },
+      {
+        "name": "Glonoine",
+        "potency": "2x",
+        "note": "High BP.",
+        "flag": "written 'Gloniyan'"
+      },
+      {
+        "name": "Crataegus",
+        "potency": "mother tincture (Q)",
+        "note": "High BP."
+      },
+      {
+        "name": "Passiflora",
+        "potency": "mother tincture (Q)",
+        "note": "High BP."
+      },
+      {
+        "name": "Physostigma",
+        "potency": null,
+        "note": "Low BP.",
+        "flag": "written 'Phygistigma'"
+      },
+      {
+        "name": "Arsenicum Album",
+        "potency": "30",
+        "note": "Low BP."
+      },
+      {
+        "name": "Camphora",
+        "potency": null,
+        "note": "Low BP."
+      }
+    ],
+    "raw_text": "High BP - Sparteinum 1x, Rauwolfia Q, Glonoine 2x, Crataegus Q, Passiflora Q. Low BP - Physostigma, Arsenic 30, Camphor."
+  },
+  {
+    "id": "homeopathy_1-p022",
+    "source_pdf": "Homeopathy_1",
+    "page": 22,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Heart",
+    "remedies": [
+      {
+        "name": "Terminalia Arjuna",
+        "potency": null,
+        "note": "Organic and functional heart disease."
+      },
+      {
+        "name": "Digitalis",
+        "potency": "30",
+        "note": "Fast pulse."
+      },
+      {
+        "name": "Kali Phosphoricum",
+        "potency": "30x",
+        "note": "General heart problems."
+      },
+      {
+        "name": "Aspidosperma",
+        "potency": "mother tincture (Q)",
+        "note": ""
+      },
+      {
+        "name": "Convallaria Majalis",
+        "potency": null,
+        "note": ""
+      }
+    ],
+    "raw_text": "Terminalia Arjuna - organic and functional heart disease. Digitalis 30 - fast pulse. Kali Phos 30x - general heart problems. Aspidosperma Q, Convallaria Majalis."
+  },
+  {
+    "id": "homeopathy_1-p023",
+    "source_pdf": "Homeopathy_1",
+    "page": 23,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "High Blood Pressure",
+    "remedies": [
+      {
+        "name": "Rauwolfia Serpentina",
+        "potency": "mother tincture (Q)",
+        "note": "Immediate relief."
+      },
+      {
+        "name": "Sparteinum",
+        "potency": "1x",
+        "note": "Gradual decrease."
+      },
+      {
+        "name": "Allium Sativum",
+        "potency": null,
+        "note": "Reduces BP within 30-45 minutes."
+      }
+    ],
+    "raw_text": "Rauwolfia Serpentina Q - immediate relief. Sparteinum 1x - gradual decrease. Allium Sativum - reduces BP within 30-45 minutes."
+  },
+  {
+    "id": "homeopathy_1-p024",
+    "source_pdf": "Homeopathy_1",
+    "page": 24,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Spinal / Neck Pain",
+    "remedies": [
+      {
+        "name": "Chininum Sulphuricum",
+        "potency": null,
+        "note": "Spinal / neck pain."
+      },
+      {
+        "name": "Lachesis",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Cimicifuga (Macrotinum)",
+        "potency": null,
+        "note": "",
+        "flag": "written 'Macrotin'"
+      },
+      {
+        "name": "Ranunculus",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Cocculus",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Kali Bichromicum",
+        "potency": null,
+        "note": "Dizziness, nausea, yellow discharge."
+      }
+    ],
+    "raw_text": "Chininum Sulph, Lachesis, Macrotinum (Cimicifuga), Ranunculus, Cocculus. Kali Bichromicum - dizziness, nausea, yellow discharge."
+  },
+  {
+    "id": "homeopathy_1-p025",
+    "source_pdf": "Homeopathy_1",
+    "page": 25,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Elephantiasis / Hydrocele / Piles",
+    "remedies": [
+      {
+        "name": "Hydrocotyle Asiatica",
+        "potency": "mother tincture (Q)",
+        "note": "Elephantiasis."
+      },
+      {
+        "name": "Calotropis",
+        "potency": null,
+        "note": "Elephantiasis."
+      },
+      {
+        "name": "Calcarea Fluorica",
+        "potency": null,
+        "note": "Hydrocele."
+      },
+      {
+        "name": "Arum Muriaticum",
+        "potency": null,
+        "note": "Hydrocele."
+      },
+      {
+        "name": "Spongia",
+        "potency": "3x",
+        "note": "Hydrocele."
+      },
+      {
+        "name": "Aegle Marmelos",
+        "potency": null,
+        "note": "Piles."
+      },
+      {
+        "name": "Terminalia Chebula",
+        "potency": null,
+        "note": "Piles."
+      },
+      {
+        "name": "Aesculus Hippocastanum",
+        "potency": "mother tincture (Q)",
+        "note": "Piles."
+      }
+    ],
+    "raw_text": "Elephantiasis (हाथी पाँव) - Hydrocotyle Asiatica Q, Calotropis. Hydrocele - Calc Fluor, Arum mur, Spongia 3x. Piles (बवासीर) - Aegle Marmelos, Terminalia Chebula, Aesculus Hippocastanum Q."
+  },
+  {
+    "id": "homeopathy_1-p026",
+    "source_pdf": "Homeopathy_1",
+    "page": 26,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Rickets / Epilepsy",
+    "remedies": [
+      {
+        "name": "Abrotanum",
+        "potency": null,
+        "note": "Rickets."
+      },
+      {
+        "name": "Calcarea Silicata",
+        "potency": null,
+        "note": "Rickets."
+      },
+      {
+        "name": "Iodium",
+        "potency": null,
+        "note": "Rickets."
+      },
+      {
+        "name": "Bufo",
+        "potency": null,
+        "note": "Epilepsy."
+      },
+      {
+        "name": "Borax",
+        "potency": null,
+        "note": "Epilepsy."
+      },
+      {
+        "name": "Absinthium",
+        "potency": null,
+        "note": "Epilepsy."
+      },
+      {
+        "name": "Amyl Nitrosum",
+        "potency": null,
+        "note": "Epilepsy."
+      }
+    ],
+    "raw_text": "Rickets (सूखा रोग) - Abrotanum, Calcarea Silicata, Iodium. Epilepsy (मृगी रोग) - Bufo, Borax, Absinthium, Amyl Nitrosum."
+  },
+  {
+    "id": "homeopathy_1-p027",
+    "source_pdf": "Homeopathy_1",
+    "page": 27,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Sprain / Palpitations",
+    "remedies": [
+      {
+        "name": "Agnus Castus",
+        "potency": null,
+        "note": "Sprain."
+      },
+      {
+        "name": "Bellis Perennis",
+        "potency": null,
+        "note": "Sprain."
+      },
+      {
+        "name": "Amyl Nitrosum",
+        "potency": null,
+        "note": "Palpitations."
+      },
+      {
+        "name": "Cactus Grandiflorus",
+        "potency": null,
+        "note": "Palpitations."
+      },
+      {
+        "name": "Coffea Cruda",
+        "potency": null,
+        "note": "Palpitations."
+      },
+      {
+        "name": "Convallaria Majalis",
+        "potency": null,
+        "note": "Palpitations."
+      }
+    ],
+    "raw_text": "Sprain (मोच) - Agnus Castus, Bellis Perennis. Palpitations (धड़कन) - Amyl Nitrosum, Cactus Grandiflorus, Coffea Cruda, Convallaria Majalis."
+  },
+  {
+    "id": "homeopathy_1-p028",
+    "source_pdf": "Homeopathy_1",
+    "page": 28,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Nose / Urine",
+    "remedies": [
+      {
+        "name": "Natrum Carbonicum",
+        "potency": null,
+        "note": "Red nose."
+      },
+      {
+        "name": "Borax",
+        "potency": null,
+        "note": "Nasal crusts."
+      },
+      {
+        "name": "Cactus",
+        "potency": null,
+        "note": "Nose bleeding."
+      },
+      {
+        "name": "Cannabis Sativa",
+        "potency": null,
+        "note": "Urine retention."
+      },
+      {
+        "name": "Chimaphila",
+        "potency": null,
+        "note": "White sediment in urine."
+      },
+      {
+        "name": "Lycopodium",
+        "potency": null,
+        "note": "Night frequency of urine."
+      }
+    ],
+    "raw_text": "Nose - Natrum Carbonicum (red nose), Borax (crusts), Cactus (bleeding). Urine - Cannabis Sativa (retention), Chimaphila (white sediment), Lycopodium (night frequency)."
+  },
+  {
+    "id": "homeopathy_1-p029",
+    "source_pdf": "Homeopathy_1",
+    "page": 29,
+    "date": "1995-05-01",
+    "date_raw": "May 1 1995",
+    "type": "reference",
+    "condition": "Proprietary tonics",
+    "remedies": [
+      {
+        "name": "Alfalfa Tonic",
+        "potency": null,
+        "note": "Quick restoration of health.",
+        "flag": "proprietary tonic"
+      },
+      {
+        "name": "Ashoka Tonic",
+        "potency": null,
+        "note": "Menstrual disorders.",
+        "flag": "proprietary tonic"
+      },
+      {
+        "name": "Babyplex",
+        "potency": null,
+        "note": "Child growth, appetite, rickets.",
+        "flag": "proprietary tonic"
+      },
+      {
+        "name": "Calcintone",
+        "potency": null,
+        "note": "Calcium for babies.",
+        "flag": "proprietary tonic"
+      }
+    ],
+    "raw_text": "Alfalfa Tonic - quick restoration of health. Ashoka Tonic - menstrual disorders. Babyplex - child growth, appetite, rickets. Calcintone - calcium for babies."
+  },
+  {
+    "id": "homeopathy_1-p030",
+    "source_pdf": "Homeopathy_1",
+    "page": 30,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Proprietary tonics (menstruation / digestion)",
+    "remedies": [
+      {
+        "name": "Fernatone",
+        "potency": null,
+        "note": "Painful/stopped menstruation, anaemia.",
+        "flag": "proprietary tonic"
+      },
+      {
+        "name": "Gastrine",
+        "potency": null,
+        "note": "Hyperacidity, indigestion, gas.",
+        "flag": "proprietary tonic"
+      }
+    ],
+    "raw_text": "Fernatone - painful/stopped menstruation, anaemia. Gastrine - hyperacidity, indigestion, gas."
+  },
+  {
+    "id": "homeopathy_1-p031",
+    "source_pdf": "Homeopathy_1",
+    "page": 31,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Proprietary tonics",
+    "remedies": [
+      {
+        "name": "Homezyne",
+        "potency": null,
+        "note": "Digestive tonic.",
+        "flag": "proprietary tonic"
+      },
+      {
+        "name": "Koflex",
+        "potency": null,
+        "note": "Coughs.",
+        "flag": "proprietary tonic"
+      },
+      {
+        "name": "Kalmegh",
+        "potency": null,
+        "note": "Liver and jaundice.",
+        "flag": "proprietary tonic"
+      },
+      {
+        "name": "Levertone",
+        "potency": null,
+        "note": "Liver and spleen enlargement.",
+        "flag": "proprietary tonic"
+      }
+    ],
+    "raw_text": "Homezyne - digestive tonic. Koflex - coughs. Kalmegh - liver and jaundice. Levertone - liver and spleen enlargement."
+  },
+  {
+    "id": "homeopathy_1-p032",
+    "source_pdf": "Homeopathy_1",
+    "page": 32,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Proprietary tonics (menstrual / anaemia)",
+    "remedies": [
+      {
+        "name": "Mesolin",
+        "potency": null,
+        "note": "Menstrual issues. Caution: may cause abortion during pregnancy.",
+        "flag": "proprietary tonic"
+      },
+      {
+        "name": "Vitolin",
+        "potency": null,
+        "note": "Weakness and anaemia.",
+        "flag": "proprietary tonic"
+      }
+    ],
+    "raw_text": "Mesolin - menstrual issues (may cause abortion during pregnancy). Vitolin - weakness and anaemia."
+  },
+  {
+    "id": "homeopathy_1-p033",
+    "source_pdf": "Homeopathy_1",
+    "page": 33,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Mensolex - to restart menses",
+    "remedies": [
+      {
+        "name": "Mensolex",
+        "potency": null,
+        "note": "One spoon every half hour x3, with warm water, for 3 days to restart menses.",
+        "flag": "proprietary tonic"
+      }
+    ],
+    "raw_text": "Mensolex: one spoon every half hour, 3 times, with warm water, for 3 days to restart menses."
+  },
+  {
+    "id": "homeopathy_1-p034",
+    "source_pdf": "Homeopathy_1",
+    "page": 34,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Back Pain (कमर दर्द)",
+    "remedies": [
+      {
+        "name": "Oxalicum Acidum",
+        "potency": null,
+        "note": "Back pain."
+      },
+      {
+        "name": "Calcarea Fluorica",
+        "potency": null,
+        "note": "Back pain."
+      },
+      {
+        "name": "Ginseng",
+        "potency": null,
+        "note": "Back pain."
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": null,
+        "note": "Back pain."
+      },
+      {
+        "name": "Agaricus Muscarius",
+        "potency": null,
+        "note": "Back pain.",
+        "flag": "written 'Agnus muscarius'"
+      },
+      {
+        "name": "Guaiacum",
+        "potency": null,
+        "note": "Back pain."
+      },
+      {
+        "name": "Aurum Metallicum",
+        "potency": null,
+        "note": "Bone pain.",
+        "flag": "written 'Arum met'"
+      },
+      {
+        "name": "Colchicinum",
+        "potency": null,
+        "note": "Bone pain.",
+        "flag": "written 'Corchicin'"
+      }
+    ],
+    "raw_text": "Oxalicum Acidum, Calc Fluor, Ginseng, Calc Carb, Agaricus Muscarius, Guaiacum. Bone pain - Aurum Met, Colchicinum."
+  },
+  {
+    "id": "homeopathy_1-p035",
+    "source_pdf": "Homeopathy_1",
+    "page": 35,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Eyes / High BP",
+    "remedies": [
+      {
+        "name": "Euphrasia",
+        "potency": null,
+        "note": "Watery eyes."
+      },
+      {
+        "name": "Calcarea Fluorica",
+        "potency": null,
+        "note": "Cataracts."
+      },
+      {
+        "name": "Cineraria Maritima",
+        "potency": null,
+        "note": "Cataracts."
+      },
+      {
+        "name": "Crataegus",
+        "potency": "mother tincture (Q)",
+        "note": "High BP."
+      },
+      {
+        "name": "Rauwolfia",
+        "potency": null,
+        "note": "High BP."
+      },
+      {
+        "name": "Glonoine",
+        "potency": null,
+        "note": "High BP.",
+        "flag": "written 'Glonine'"
+      },
+      {
+        "name": "Baryta Muriatica",
+        "potency": null,
+        "note": "High BP."
+      }
+    ],
+    "raw_text": "Eyes - Euphrasia (watery), Calc Fluor (cataracts), Cineraria (cataracts). High BP - Crataegus Q, Rauwolfia, Glonoine, Baryta Mur."
+  },
+  {
+    "id": "homeopathy_1-p036",
+    "source_pdf": "Homeopathy_1",
+    "page": 36,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Wood polish recipe (non-medical)",
+    "remedies": [],
+    "raw_text": "Recipes for polishing wood using spirit, ramras, etc. Not a medical entry."
+  },
+  {
+    "id": "homeopathy_1-p037",
+    "source_pdf": "Homeopathy_1",
+    "page": 37,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Warts / Piles",
+    "remedies": [
+      {
+        "name": "Calendula Officinalis",
+        "potency": null,
+        "note": "Non-healing sores and warts."
+      }
+    ],
+    "raw_text": "Calendula Officinalis - sores that won't heal, and warts."
+  },
+  {
+    "id": "homeopathy_1-p038",
+    "source_pdf": "Homeopathy_1",
+    "page": 38,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Menstruation (मासिक)",
+    "remedies": [
+      {
+        "name": "Momordica Balsamina",
+        "potency": "mother tincture (Q)",
+        "note": "Menstruation."
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Calcarea Phosphorica",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Kreosotum",
+        "potency": null,
+        "note": "",
+        "flag": "written 'Kerosote'"
+      },
+      {
+        "name": "Cocculus",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Collinsonia",
+        "potency": null,
+        "note": ""
+      }
+    ],
+    "raw_text": "Momordica Balsamina Q, Calc Carb, Calc Phos, Kreosotum, Cocculus, Collinsonia."
+  },
+  {
+    "id": "homeopathy_1-p039",
+    "source_pdf": "Homeopathy_1",
+    "page": 39,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Insomnia / Asthma",
+    "remedies": [
+      {
+        "name": "Myrica",
+        "potency": null,
+        "note": "Insomnia."
+      },
+      {
+        "name": "Cannabis Indica",
+        "potency": null,
+        "note": "Insomnia."
+      },
+      {
+        "name": "Naja Tripudians",
+        "potency": "30",
+        "note": "Asthma."
+      },
+      {
+        "name": "Passiflora",
+        "potency": null,
+        "note": "Asthma."
+      },
+      {
+        "name": "Aralia Racemosa",
+        "potency": null,
+        "note": "Asthma."
+      },
+      {
+        "name": "Blatta Orientalis",
+        "potency": null,
+        "note": "Asthma.",
+        "flag": "written 'Blata orientalis'"
+      },
+      {
+        "name": "Kali Iodatum",
+        "potency": null,
+        "note": "Asthma."
+      }
+    ],
+    "raw_text": "Insomnia - Myrica, Cannabis Indica. Asthma (दमा) - Naja Tripudians 30, Passiflora, Aralia Racemosa, Blatta Orientalis, Kali Iod."
+  },
+  {
+    "id": "homeopathy_1-p040",
+    "source_pdf": "Homeopathy_1",
+    "page": 40,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Cold / Paralysis",
+    "remedies": [
+      {
+        "name": "Arundo",
+        "potency": null,
+        "note": "Cold."
+      },
+      {
+        "name": "Penthorum",
+        "potency": null,
+        "note": "Cold."
+      },
+      {
+        "name": "Bacillinum",
+        "potency": null,
+        "note": "Cold."
+      },
+      {
+        "name": "Causticum",
+        "potency": null,
+        "note": "Paralysis."
+      },
+      {
+        "name": "Gelsemium",
+        "potency": null,
+        "note": "Paralysis."
+      },
+      {
+        "name": "Cadmium Sulphuratum",
+        "potency": null,
+        "note": "Paralysis."
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "potency": null,
+        "note": "Paralysis."
+      },
+      {
+        "name": "Lathyrus",
+        "potency": null,
+        "note": "Paralysis."
+      }
+    ],
+    "raw_text": "Cold - Arundo, Penthorum, Bacillinum. Paralysis (लकवा) - Causticum, Gelsemium, Cadmium Sulph, Rhus Tox, Lathyrus."
+  },
+  {
+    "id": "homeopathy_1-p041",
+    "source_pdf": "Homeopathy_1",
+    "page": 41,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Cancer",
+    "remedies": [
+      {
+        "name": "Acidum Aceticum",
+        "potency": null,
+        "note": "Stomach cancer."
+      },
+      {
+        "name": "Cadmium Sulphuratum",
+        "potency": null,
+        "note": "Stomach cancer."
+      },
+      {
+        "name": "Carcinosin",
+        "potency": null,
+        "note": "General cancer nosode."
+      },
+      {
+        "name": "Caltha Palustris",
+        "potency": "mother tincture (Q)",
+        "note": "Uterine cancer."
+      },
+      {
+        "name": "Cinnamomum",
+        "potency": null,
+        "note": "Uterine cancer."
+      },
+      {
+        "name": "Scirrhinum",
+        "potency": null,
+        "note": "Breast cancer."
+      },
+      {
+        "name": "Galium Aparine",
+        "potency": null,
+        "note": "Gland cancer."
+      }
+    ],
+    "raw_text": "Stomach - Acid Aceticum, Cadmium Sulph. General - Carcinosin. Uterus - Caltha Palustris Q, Cinnamomum. Breast - Scirrhinum. Glands - Galium Aparine."
+  },
+  {
+    "id": "homeopathy_1-p042",
+    "source_pdf": "Homeopathy_1",
+    "page": 42,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Skin Numbness / Rheumatism",
+    "remedies": [
+      {
+        "name": "Ambra Grisea",
+        "potency": null,
+        "note": "Skin numbness."
+      },
+      {
+        "name": "Calcarea Phosphorica",
+        "potency": null,
+        "note": "Skin numbness."
+      },
+      {
+        "name": "Radium Bromatum",
+        "potency": null,
+        "note": "Rheumatism."
+      },
+      {
+        "name": "Ledum Palustre",
+        "potency": null,
+        "note": "Rheumatism."
+      },
+      {
+        "name": "Syphilinum",
+        "potency": null,
+        "note": "Rheumatism."
+      },
+      {
+        "name": "Urtica Urens",
+        "potency": null,
+        "note": "Rheumatism."
+      },
+      {
+        "name": "Colchicum",
+        "potency": null,
+        "note": "Rheumatism."
+      }
+    ],
+    "raw_text": "Skin - Ambra Grisea, Calc Phos. Rheumatism (गठिया) - Radium Brom, Ledum Pal, Syphilinum, Urtica Urens, Colchicum."
+  },
+  {
+    "id": "homeopathy_1-p043",
+    "source_pdf": "Homeopathy_1",
+    "page": 43,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Joint Pain (जोड़ों का दर्द)",
+    "remedies": [
+      {
+        "name": "Lithium Carbonicum",
+        "potency": null,
+        "note": "Joint pain."
+      },
+      {
+        "name": "Ammonium Phosphoricum",
+        "potency": null,
+        "note": "Joint pain."
+      },
+      {
+        "name": "Actaea Spicata",
+        "potency": null,
+        "note": "Joint pain.",
+        "flag": "written 'Actia spicata'"
+      },
+      {
+        "name": "Benzoicum Acidum",
+        "potency": null,
+        "note": "Joint pain."
+      },
+      {
+        "name": "Colchicum",
+        "potency": null,
+        "note": "Joint pain."
+      }
+    ],
+    "raw_text": "Lithium Carb, Ammonium Phosphoricum, Actaea Spicata, Benzoic Acid, Colchicum."
+  },
+  {
+    "id": "homeopathy_1-p044",
+    "source_pdf": "Homeopathy_1",
+    "page": 44,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Urine / Tumour",
+    "remedies": [
+      {
+        "name": "Berberis Vulgaris",
+        "potency": "mother tincture (Q)",
+        "note": "Urine."
+      },
+      {
+        "name": "Benzoicum Acidum",
+        "potency": null,
+        "note": "Urine."
+      },
+      {
+        "name": "Baryta Carbonica",
+        "potency": null,
+        "note": "Tumour.",
+        "flag": "abbrev 'B. Carb' - uncertain"
+      },
+      {
+        "name": "Baryta Muriatica",
+        "potency": null,
+        "note": "Tumour.",
+        "flag": "abbrev 'B. Mur' - uncertain"
+      }
+    ],
+    "raw_text": "Berberis Vulgaris Q, Acid Benz. Tumour - B. Carb[?], B. Mur[?].",
+    "needs_review": true
+  },
+  {
+    "id": "homeopathy_1-p045",
+    "source_pdf": "Homeopathy_1",
+    "page": 45,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Miscellaneous",
+    "remedies": [
+      {
+        "name": "Cocainum",
+        "potency": null,
+        "note": "Feeling of insects on skin.",
+        "flag": "written 'Cocaine'"
+      },
+      {
+        "name": "Codeinum",
+        "potency": null,
+        "note": "Body tremors.",
+        "flag": "written 'Codinum'"
+      },
+      {
+        "name": "Raphanus",
+        "potency": null,
+        "note": "Eyelid twitching."
+      }
+    ],
+    "raw_text": "Cocaine - feeling of insects on skin. Codeinum - body tremors. Raphanus - eyelid twitching."
+  },
+  {
+    "id": "homeopathy_1-p046",
+    "source_pdf": "Homeopathy_1",
+    "page": 46,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Disease index (reference)",
+    "remedies": [],
+    "raw_text": "List of diseases (Diabetes, Jaundice, BP, Heart, etc.) with their corresponding diary page numbers."
+  },
+  {
+    "id": "homeopathy_1-p047",
+    "source_pdf": "Homeopathy_1",
+    "page": 47,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Miscellaneous symptoms",
+    "remedies": [
+      {
+        "name": "Opium",
+        "potency": null,
+        "note": "Snoring."
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": null,
+        "note": "Snoring."
+      },
+      {
+        "name": "Antimonium Crudum",
+        "potency": null,
+        "note": "Heel pain."
+      },
+      {
+        "name": "Chininum Sulphuricum",
+        "potency": null,
+        "note": "Malaria."
+      },
+      {
+        "name": "Bacillinum",
+        "potency": null,
+        "note": "Typhoid."
+      },
+      {
+        "name": "Tuberculinum",
+        "potency": null,
+        "note": "Typhoid."
+      }
+    ],
+    "raw_text": "Snoring - Opium / Calc Carb. Heel pain - Antim Crud. Appendix - see p.102. Malaria - Chininum Sulph. Typhoid - Bacillinum, Tuberculinum."
+  },
+  {
+    "id": "homeopathy_1-p048",
+    "source_pdf": "Homeopathy_1",
+    "page": 48,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Prostate (index continuation)",
+    "remedies": [
+      {
+        "name": "Alnus",
+        "potency": null,
+        "note": "Prostate."
+      },
+      {
+        "name": "Sabal Serrulata",
+        "potency": null,
+        "note": "Prostate."
+      }
+    ],
+    "raw_text": "Prostate - Alnus, Sabal Serrulata."
+  },
+  {
+    "id": "homeopathy_2-p001",
+    "source_pdf": "Homeopathy_2",
+    "page": 1,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Paralysis (continued)",
+    "remedies": [
+      {
+        "name": "Carbolicum Acidum",
+        "potency": null,
+        "note": "Paralysis."
+      },
+      {
+        "name": "Carboneum Oxygenisatum",
+        "potency": null,
+        "note": "Paralysis.",
+        "flag": "written 'Carbonium Oxyem Sodium'"
+      },
+      {
+        "name": "Causticum",
+        "potency": null,
+        "note": "Paralysis."
+      },
+      {
+        "name": "Plumbum Metallicum",
+        "potency": null,
+        "note": "Paralysis."
+      },
+      {
+        "name": "Cocculus",
+        "potency": null,
+        "note": "Paralysis."
+      }
+    ],
+    "raw_text": "Carbolic Acid, Carboneum Oxygenisatum, Causticum, Plumbum Metallicum, Cocculus."
+  },
+  {
+    "id": "homeopathy_2-p003",
+    "source_pdf": "Homeopathy_2",
+    "page": 3,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Mouth Ulcers (मुँह के छाले)",
+    "remedies": [
+      {
+        "name": "Caulophyllum",
+        "potency": null,
+        "note": "Mouth ulcers."
+      },
+      {
+        "name": "Mercurius Solubilis",
+        "potency": "300",
+        "note": "Mouth ulcers."
+      },
+      {
+        "name": "Borax",
+        "potency": "30",
+        "note": "Mouth ulcers."
+      }
+    ],
+    "raw_text": "Caulophyllum, Merc Sol 300, Borax 30."
+  },
+  {
+    "id": "homeopathy_2-p004",
+    "source_pdf": "Homeopathy_2",
+    "page": 4,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Hysteria",
+    "remedies": [
+      {
+        "name": "Castoreum",
+        "potency": null,
+        "note": "Hysteria.",
+        "flag": "written 'Castorium'"
+      },
+      {
+        "name": "Nepeta Cataria",
+        "potency": null,
+        "note": "Hysteria.",
+        "flag": "written 'Cataria Nepeta'"
+      },
+      {
+        "name": "Ignatia",
+        "potency": null,
+        "note": "Hysteria."
+      }
+    ],
+    "raw_text": "Castoreum, Nepeta Cataria, Ignatia."
+  },
+  {
+    "id": "homeopathy_2-p005",
+    "source_pdf": "Homeopathy_2",
+    "page": 5,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Whooping Cough (काली खाँसी)",
+    "remedies": [
+      {
+        "name": "Castanea Vesca",
+        "potency": null,
+        "note": "Whooping cough."
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": null,
+        "note": "Whooping cough."
+      },
+      {
+        "name": "Hyoscyamus",
+        "potency": null,
+        "note": "Whooping cough."
+      },
+      {
+        "name": "Ammonium Carbonicum",
+        "potency": null,
+        "note": "Whooping cough.",
+        "flag": "written 'Amon Carb'"
+      },
+      {
+        "name": "Coccus Cacti",
+        "potency": null,
+        "note": "Whooping cough."
+      },
+      {
+        "name": "Pix Liquida",
+        "potency": null,
+        "note": "Whooping cough."
+      },
+      {
+        "name": "Phosphorus",
+        "potency": null,
+        "note": "Whooping cough."
+      }
+    ],
+    "raw_text": "Castanea Vesca, Calc Carb, Hyoscyamus, Ammonium Carbonicum, Coccus Cacti, Pix Liquida, Phosphorus."
+  },
+  {
+    "id": "homeopathy_2-p006",
+    "source_pdf": "Homeopathy_2",
+    "page": 6,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Spleen (प्लीहा)",
+    "remedies": [
+      {
+        "name": "Ceanothus",
+        "potency": null,
+        "note": "Spleen."
+      },
+      {
+        "name": "Cobaltum",
+        "potency": null,
+        "note": "Spleen."
+      }
+    ],
+    "raw_text": "Ceanothus, Cobaltum."
+  },
+  {
+    "id": "homeopathy_2-p007",
+    "source_pdf": "Homeopathy_2",
+    "page": 7,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Stomach Pain & Gas",
+    "remedies": [
+      {
+        "name": "Chionanthus",
+        "potency": null,
+        "note": "Stomach pain & gas."
+      },
+      {
+        "name": "Spigelia",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Carbo Vegetabilis",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Chelone",
+        "potency": "mother tincture (Q)",
+        "note": ""
+      },
+      {
+        "name": "Coccinella",
+        "potency": null,
+        "note": ""
+      }
+    ],
+    "raw_text": "Chionanthus, Spigelia, Carbo Veg, Chelone Q, Coccinella."
+  },
+  {
+    "id": "homeopathy_2-p008",
+    "source_pdf": "Homeopathy_2",
+    "page": 8,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Fever",
+    "remedies": [
+      {
+        "name": "Naja",
+        "potency": null,
+        "note": "Fever."
+      },
+      {
+        "name": "Conchala Gua",
+        "potency": null,
+        "note": "Fever.",
+        "flag": "name uncertain"
+      },
+      {
+        "name": "Gelsemium",
+        "potency": null,
+        "note": "Fever."
+      },
+      {
+        "name": "Cimex",
+        "potency": null,
+        "note": "Fever."
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": null,
+        "note": "Fever."
+      },
+      {
+        "name": "Calcarea Caustica",
+        "potency": null,
+        "note": "Fever.",
+        "flag": "name uncertain (written 'Calc. Cast')"
+      }
+    ],
+    "raw_text": "Naja, Conchala Gua[?], Gelsemium, Cimex, Calc Carb, Calc Cast[?].",
+    "needs_review": true
+  },
+  {
+    "id": "homeopathy_2-p009",
+    "source_pdf": "Homeopathy_2",
+    "page": 9,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Blood / Anaemia",
+    "remedies": [
+      {
+        "name": "Chromium Sulphuricum",
+        "potency": null,
+        "note": "Anaemia."
+      },
+      {
+        "name": "Chininum Arsenicosum",
+        "potency": null,
+        "note": "Anaemia."
+      },
+      {
+        "name": "Ferrum Silicum",
+        "potency": null,
+        "note": "Anaemia.",
+        "flag": "name uncertain (written 'Ferrum Sidicum')"
+      },
+      {
+        "name": "Cinnamomum",
+        "potency": null,
+        "note": "Anaemia."
+      },
+      {
+        "name": "Calcarea Phosphorica",
+        "potency": null,
+        "note": "Anaemia."
+      }
+    ],
+    "raw_text": "Chromium Sulph, Chininum Ars, Ferrum Silicum[?], Cinnamomum, Calc Phos."
+  },
+  {
+    "id": "homeopathy_2-p010",
+    "source_pdf": "Homeopathy_2",
+    "page": 10,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Skin Diseases",
+    "remedies": [
+      {
+        "name": "Chrysarobinum",
+        "potency": null,
+        "note": "Ringworm, purple spots."
+      },
+      {
+        "name": "Clematis Erecta",
+        "potency": null,
+        "note": "Itching aggravated in cold water."
+      },
+      {
+        "name": "Condurango",
+        "potency": null,
+        "note": "Anal fissures."
+      }
+    ],
+    "raw_text": "Chrysarobinum (ringworm, purple spots), Clematis Erecta (itching in cold water), Condurango (anal fissures)."
+  },
+  {
+    "id": "homeopathy_2-p011",
+    "source_pdf": "Homeopathy_2",
+    "page": 11,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Glands / Tumours",
+    "remedies": [
+      {
+        "name": "Kali Hydriodicum",
+        "potency": null,
+        "note": "Glands / tumours."
+      },
+      {
+        "name": "Mercurius Iodatus",
+        "potency": null,
+        "note": "Glands / tumours."
+      },
+      {
+        "name": "Carbo Animalis",
+        "potency": null,
+        "note": "Glands / tumours."
+      }
+    ],
+    "raw_text": "Kali Hydriodicum, Mercurius Iodatus, Carbo Animalis."
+  },
+  {
+    "id": "homeopathy_2-p012",
+    "source_pdf": "Homeopathy_2",
+    "page": 12,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Liver",
+    "remedies": [
+      {
+        "name": "Cholesterinum",
+        "potency": null,
+        "note": "Liver."
+      },
+      {
+        "name": "TNT",
+        "potency": null,
+        "note": "Severe anaemia / jaundice.",
+        "flag": "name uncertain"
+      },
+      {
+        "name": "Vipera",
+        "potency": null,
+        "note": "Liver."
+      },
+      {
+        "name": "Carduus Marianus",
+        "potency": null,
+        "note": "Liver."
+      }
+    ],
+    "raw_text": "Cholesterinum, TNT[?] (severe anaemia/jaundice), Vipera, Carduus Marianus.",
+    "needs_review": true
+  },
+  {
+    "id": "homeopathy_2-p015",
+    "source_pdf": "Homeopathy_2",
+    "page": 15,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Kidney Stones",
+    "remedies": [
+      {
+        "name": "Calcarea Carbonica",
+        "potency": "200",
+        "note": "Kidney stones."
+      },
+      {
+        "name": "Lycopodium",
+        "potency": "200",
+        "note": "Kidney stones."
+      },
+      {
+        "name": "Cantharis",
+        "potency": "6",
+        "note": "Kidney stones."
+      },
+      {
+        "name": "Calcarea Renalis",
+        "potency": "30",
+        "note": "Kidney stones.",
+        "flag": "written 'Calculi Renalis'"
+      },
+      {
+        "name": "Nux Vomica",
+        "potency": "30",
+        "note": "Kidney stones."
+      },
+      {
+        "name": "Berberis Vulgaris",
+        "potency": "mother tincture (Q)",
+        "note": "Kidney stones."
+      }
+    ],
+    "raw_text": "Calc Carb 200, Lycopodium 200, Cantharis 6, Calculi Renalis 30, Nux V 30, Berberis Vulgaris Q."
+  },
+  {
+    "id": "homeopathy_2-p017",
+    "source_pdf": "Homeopathy_2",
+    "page": 17,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Sexual debility",
+    "remedies": [
+      {
+        "name": "Calcarea Carbonica",
+        "potency": null,
+        "note": "Sexual debility."
+      },
+      {
+        "name": "Clematis Erecta",
+        "potency": null,
+        "note": "Sexual debility."
+      },
+      {
+        "name": "Cobaltum",
+        "potency": null,
+        "note": "Sexual debility."
+      }
+    ],
+    "raw_text": "Calc Carb, Clematis Erecta, Cobaltum."
+  },
+  {
+    "id": "homeopathy_2-p018",
+    "source_pdf": "Homeopathy_2",
+    "page": 18,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Warts (मस्सा)",
+    "remedies": [
+      {
+        "name": "Calcarea Calcinata",
+        "potency": null,
+        "note": "Warts.",
         "flag": "name uncertain"
       }
     ],
-    "raw_text": "Urine dribbles drop by drop. 1x Sulphur 200 1 dose, 2x Sepia 200 1 dose, 3x Nat mur 200 1 dose (once a month). 4x Vinca 30, 5x Selenium 30 (four times a day). If fails, Phosphorus 200. Blood with urine - Antim tart[?]. Retention of urine / urinary passage - Cascara Sagrada Mixture. Urinal trouble / Spleen / B.P. High: 1x Berberis Q, 2x Damiana Q, 3x Frangula Q, 4x Ceanothus Q. Mancinella[?].",
+    "raw_text": "Calcarea Calcinata[?].",
     "needs_review": true
+  },
+  {
+    "id": "homeopathy_2-p019",
+    "source_pdf": "Homeopathy_2",
+    "page": 19,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Sciatica (L3-L4)",
+    "remedies": [
+      {
+        "name": "Causticum",
+        "potency": "1M",
+        "note": "Sciatica (L3-L4)."
+      },
+      {
+        "name": "Lachesis",
+        "potency": "1M",
+        "note": "Sciatica."
+      },
+      {
+        "name": "Hypericum",
+        "potency": "1M",
+        "note": "Sciatica."
+      },
+      {
+        "name": "Colocynth",
+        "potency": "200",
+        "note": "Sciatica."
+      },
+      {
+        "name": "Viscum Album",
+        "potency": "200",
+        "note": "Sciatica."
+      },
+      {
+        "name": "Ledum Palustre",
+        "potency": "200",
+        "note": "Sciatica."
+      }
+    ],
+    "raw_text": "Causticum 1M, Lachesis 1M, Hypericum 1M, Colocynth 200, Viscum Album 200, Ledum Pal 200."
+  },
+  {
+    "id": "homeopathy_2-p021",
+    "source_pdf": "Homeopathy_2",
+    "page": 21,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Teeth",
+    "remedies": [
+      {
+        "name": "Chionanthus",
+        "potency": null,
+        "note": "Wisdom tooth."
+      },
+      {
+        "name": "Calcarea Renalis",
+        "potency": null,
+        "note": "Pyorrhoea."
+      },
+      {
+        "name": "Clematis",
+        "potency": null,
+        "note": "Toothache at night."
+      },
+      {
+        "name": "Phytolacca",
+        "potency": null,
+        "note": "Teething in children."
+      }
+    ],
+    "raw_text": "Chionanthus (wisdom tooth), Calcarea Renalis (pyorrhoea), Clematis (toothache at night), Phytolacca (teething in children)."
+  },
+  {
+    "id": "homeopathy_2-p024",
+    "source_pdf": "Homeopathy_2",
+    "page": 24,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Ear",
+    "remedies": [
+      {
+        "name": "Carboneum Sulphuratum",
+        "potency": null,
+        "note": "Ringing, deafness.",
+        "flag": "written 'Carbonium Sulph'"
+      },
+      {
+        "name": "Chamomilla",
+        "potency": null,
+        "note": "Earache."
+      },
+      {
+        "name": "Apis",
+        "potency": null,
+        "note": "External ear inflammation."
+      },
+      {
+        "name": "Salicylicum Acidum",
+        "potency": null,
+        "note": "Dizziness with ringing."
+      }
+    ],
+    "raw_text": "Carbonium Sulph (ringing, deafness), Chamomilla (earache), Apis (external inflammation), Salicylicum Acidum (dizziness with ringing)."
+  },
+  {
+    "id": "homeopathy_2-p025",
+    "source_pdf": "Homeopathy_2",
+    "page": 25,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Obesity (मोटापा)",
+    "remedies": [
+      {
+        "name": "Carlsbad",
+        "potency": null,
+        "note": "Obesity."
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": null,
+        "note": "Obesity."
+      },
+      {
+        "name": "Phytolacca Berry",
+        "potency": null,
+        "note": "Obesity."
+      },
+      {
+        "name": "Graphites",
+        "potency": null,
+        "note": "Obesity."
+      },
+      {
+        "name": "Fucus Vesiculosus",
+        "potency": null,
+        "note": "Obesity."
+      },
+      {
+        "name": "Thyroidinum",
+        "potency": null,
+        "note": "Obesity."
+      }
+    ],
+    "raw_text": "Carlsbad, Calc Carb, Phytolacca Berry, Graphites, Fucus Vesiculosus, Thyroidinum."
+  },
+  {
+    "id": "homeopathy_2-p027",
+    "source_pdf": "Homeopathy_2",
+    "page": 27,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Shoulder Pain / Hair fall",
+    "remedies": [
+      {
+        "name": "Chelidonium",
+        "potency": null,
+        "note": "Shoulder pain."
+      },
+      {
+        "name": "Ranunculus",
+        "potency": null,
+        "note": "Shoulder pain."
+      },
+      {
+        "name": "Chenopodium Anthelminticum",
+        "potency": null,
+        "note": "Shoulder pain."
+      },
+      {
+        "name": "Acidum Lacticum",
+        "potency": null,
+        "note": "Shoulder pain."
+      },
+      {
+        "name": "Acidum Phosphoricum",
+        "potency": "6x",
+        "note": "Hair fall mix."
+      },
+      {
+        "name": "Jaborandi",
+        "potency": "3x",
+        "note": "Hair fall mix."
+      },
+      {
+        "name": "Lycopodium",
+        "potency": "3x",
+        "note": "Hair fall mix."
+      },
+      {
+        "name": "Wiesbaden",
+        "potency": "3x",
+        "note": "Hair fall mix."
+      }
+    ],
+    "raw_text": "Shoulder pain - Chelidonium, Ranunculus, Chenopodium Anthelminticum, Acid Lactic. Hair fall mix - Acid Phos 6x, Jaborandi 3x, Lycopodium 3x, Wiesbaden 3x."
+  },
+  {
+    "id": "homeopathy_2-p028",
+    "source_pdf": "Homeopathy_2",
+    "page": 28,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Urine",
+    "remedies": [
+      {
+        "name": "Mercurius Corrosivus",
+        "potency": null,
+        "note": "Burning on urination."
+      },
+      {
+        "name": "Benzoicum Acidum",
+        "potency": null,
+        "note": "Foul-smelling urine."
+      },
+      {
+        "name": "Calcarea Renalis",
+        "potency": null,
+        "note": "Kidney stones."
+      },
+      {
+        "name": "Cannabis Indica",
+        "potency": null,
+        "note": "",
+        "flag": "written 'Canabis Indica'"
+      }
+    ],
+    "raw_text": "Mercurius Corrosivus (burning), Benzoicum Acidum (foul smell), Calcarea Renalis (kidney stones), Cannabis Indica."
+  },
+  {
+    "id": "homeopathy_2-p030",
+    "source_pdf": "Homeopathy_2",
+    "page": 30,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Headache (सिर दर्द)",
+    "remedies": [
+      {
+        "name": "Chionanthus",
+        "potency": null,
+        "note": "Headache."
+      },
+      {
+        "name": "Coccinella",
+        "potency": null,
+        "note": "Headache."
+      },
+      {
+        "name": "Natrum Muriaticum",
+        "potency": null,
+        "note": "Headache."
+      },
+      {
+        "name": "Magnesia Phosphorica",
+        "potency": null,
+        "note": "Headache."
+      },
+      {
+        "name": "Spigelia",
+        "potency": null,
+        "note": "Headache."
+      },
+      {
+        "name": "Sanguinaria",
+        "potency": null,
+        "note": "Headache."
+      },
+      {
+        "name": "Stramonium",
+        "potency": "30",
+        "note": "Headache."
+      }
+    ],
+    "raw_text": "Chionanthus, Coccinella, Nat mur, Mag Phos, Spigelia, Sanguinaria, Stramonium 30."
+  },
+  {
+    "id": "homeopathy_2-p033",
+    "source_pdf": "Homeopathy_2",
+    "page": 33,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Appendix",
+    "remedies": [
+      {
+        "name": "Iris Tenax",
+        "potency": "200",
+        "note": "Appendix."
+      },
+      {
+        "name": "Magnesia Phosphorica",
+        "potency": "30",
+        "note": "Appendix."
+      },
+      {
+        "name": "Nux Vomica",
+        "potency": null,
+        "note": "Appendix."
+      },
+      {
+        "name": "Bryonia",
+        "potency": null,
+        "note": "Appendix."
+      },
+      {
+        "name": "Lachesis",
+        "potency": null,
+        "note": "Appendix."
+      }
+    ],
+    "raw_text": "Iris Tenax 200, Mag Phos 30, Nux, Bryonia, Lachesis."
+  },
+  {
+    "id": "homeopathy_2-p034",
+    "source_pdf": "Homeopathy_2",
+    "page": 34,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Post-Surgery / High BP",
+    "remedies": [
+      {
+        "name": "Arnica",
+        "potency": "200",
+        "note": "Post-surgery."
+      },
+      {
+        "name": "Calendula",
+        "potency": "200",
+        "note": "Post-surgery."
+      },
+      {
+        "name": "Hypericum",
+        "potency": "200",
+        "note": "Post-surgery."
+      },
+      {
+        "name": "Staphysagria",
+        "potency": "30",
+        "note": "Post-surgery."
+      },
+      {
+        "name": "Crataegus",
+        "potency": "mother tincture (Q)",
+        "note": "High BP."
+      },
+      {
+        "name": "Rauwolfia",
+        "potency": null,
+        "note": "High BP."
+      },
+      {
+        "name": "Glonoine",
+        "potency": null,
+        "note": "High BP."
+      },
+      {
+        "name": "Baryta Muriatica",
+        "potency": null,
+        "note": "High BP."
+      }
+    ],
+    "raw_text": "Surgery - Arnica 200, Calendula 200, Hypericum 200, Staphysagria 30. High BP - Crataegus Q, Rauwolfia, Glonoine, Baryta Mur."
+  },
+  {
+    "id": "homeopathy_2-p039",
+    "source_pdf": "Homeopathy_2",
+    "page": 39,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Pimples (मुहाँसे)",
+    "remedies": [
+      {
+        "name": "Natrum Muriaticum",
+        "potency": null,
+        "note": "Pimples."
+      },
+      {
+        "name": "Nux Vomica",
+        "potency": null,
+        "note": "Pimples."
+      },
+      {
+        "name": "Hepar Sulphuris",
+        "potency": null,
+        "note": "Pimples."
+      },
+      {
+        "name": "Pulsatilla",
+        "potency": null,
+        "note": "Pimples."
+      },
+      {
+        "name": "Silicea",
+        "potency": null,
+        "note": "Pimples."
+      }
+    ],
+    "raw_text": "Nat mur, Nux, Hepar Sulph, Puls, Silicea."
+  },
+  {
+    "id": "homeopathy_2-p042",
+    "source_pdf": "Homeopathy_2",
+    "page": 42,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Vastu note / kidney stone herbal (non-classical)",
+    "remedies": [],
+    "raw_text": "Vastu: north-east should be slanting. Herbal: boil 200g water with herbal mix (Markoya) until 50g remains."
+  },
+  {
+    "id": "homeopathy_2-p045",
+    "source_pdf": "Homeopathy_2",
+    "page": 45,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Index and herbal formulas (reference)",
+    "remedies": [],
+    "raw_text": "Diabetes herbal recipe: Neem, Karela, Sadabahar, Bel leaves with black pepper and salt."
+  },
+  {
+    "id": "homeopathy_2-p048",
+    "source_pdf": "Homeopathy_2",
+    "page": 48,
+    "date": null,
+    "date_raw": null,
+    "type": "clinical",
+    "condition": "Uterus (loose papers)",
+    "remedies": [
+      {
+        "name": "Kali Iodatum",
+        "potency": "200",
+        "note": "Uterine tumour.",
+        "flag": "written 'Cali Iod'"
+      },
+      {
+        "name": "Phosphorus",
+        "potency": null,
+        "note": "Uterine tumour."
+      },
+      {
+        "name": "Arum Muriaticum",
+        "potency": "3x",
+        "note": "Uterine tumour."
+      },
+      {
+        "name": "Fraxinus Americana",
+        "potency": "mother tincture (Q)",
+        "note": "Uterine enlargement."
+      },
+      {
+        "name": "Scrophularia Nodosa",
+        "potency": "200",
+        "note": "Uterine enlargement."
+      },
+      {
+        "name": "Thuja",
+        "potency": "10M",
+        "note": "Uterine enlargement."
+      },
+      {
+        "name": "Calcarea Fluorica",
+        "potency": "12x",
+        "note": "Uterine enlargement."
+      }
+    ],
+    "raw_text": "Uterus tumour - Kali Iod 200, Phosphorus, Arum mur 3x. Uterus enlargement - Fraxinus Americana Q, Scrophularia Nodosa 200, Thuja 10M, Calc Fluor 12x."
+  },
+  {
+    "id": "homeopathy_2-p050",
+    "source_pdf": "Homeopathy_2",
+    "page": 50,
+    "date": "1995-12-01",
+    "date_raw": "December 1995",
+    "type": "clinical",
+    "condition": "Miscellaneous (December 1995)",
+    "remedies": [
+      {
+        "name": "Ferrum Phosphoricum",
+        "potency": null,
+        "note": "Piles (with Calc Sulph)."
+      },
+      {
+        "name": "Calcarea Sulphurica",
+        "potency": null,
+        "note": "Piles (with Ferrum Phos)."
+      },
+      {
+        "name": "Petroleum",
+        "potency": "30",
+        "note": "Motion sickness."
+      },
+      {
+        "name": "Argentum Nitricum",
+        "potency": null,
+        "note": "Stomach ulcer."
+      },
+      {
+        "name": "Bufo",
+        "potency": "200",
+        "note": "Epilepsy."
+      },
+      {
+        "name": "Borax",
+        "potency": null,
+        "note": "Epilepsy."
+      }
+    ],
+    "raw_text": "Piles - Ferrum Phos + Calc Sulph. Motion sickness - Petroleum 30. Stomach ulcer - Argentum Nit. Epilepsy - Bufo 200, Borax."
+  },
+  {
+    "id": "homeopathy_2-p051",
+    "source_pdf": "Homeopathy_2",
+    "page": 51,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Biochemic therapy pamphlet (reference)",
+    "remedies": [],
+    "raw_text": "Printed pamphlet: Dr. Schussler's Biochemic therapy (12 tissue salts). Lists 28 biochemic compounds for ailments like anaemia, asthma, colic, cough, diabetes, fever, piles, etc."
+  },
+  {
+    "id": "homeopathy_2-p059",
+    "source_pdf": "Homeopathy_2",
+    "page": 59,
+    "date": null,
+    "date_raw": null,
+    "type": "reference",
+    "condition": "Obesity - newspaper clipping (reference)",
+    "remedies": [
+      {
+        "name": "Calotropis",
+        "potency": null,
+        "note": "Obesity (per clipping)."
+      },
+      {
+        "name": "Fucus Vesiculosus",
+        "potency": null,
+        "note": "Obesity (per clipping)."
+      },
+      {
+        "name": "Phytolacca Berry",
+        "potency": null,
+        "note": "Obesity (per clipping)."
+      },
+      {
+        "name": "Thyroidinum",
+        "potency": null,
+        "note": "Obesity (per clipping)."
+      },
+      {
+        "name": "Cortisone",
+        "potency": null,
+        "note": "Obesity (per clipping)."
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": null,
+        "note": "Obesity (per clipping)."
+      },
+      {
+        "name": "Capsicum",
+        "potency": null,
+        "note": "Obesity (per clipping)."
+      }
+    ],
+    "raw_text": "Newspaper clipping: 'मोटापा (ओबेसिटी) के लिए रामबाण होमियोपैथ' (Homeopathy as a panacea for obesity). Medicines mentioned: Calotropis, Fucus Vesiculosus, Phytolacca Berry, Thyroidinum, Cortisone, Calcarea Carb, Capsicum."
+  },
+  {
+    "id": "hp3-001",
+    "source_pdf": "Homeopathy_3",
+    "page": 1,
+    "date": null,
+    "date_raw": "Notebook 3, image 1",
+    "type": "clinical",
+    "condition": "Heel Pain (एड़ी में दर्द)",
+    "remedies": [
+      {
+        "name": "Arnica Montana",
+        "potency": "200",
+        "note": "2-4 drops morning & evening."
+      },
+      {
+        "name": "Phytolacca",
+        "potency": "200",
+        "note": "Afternoon."
+      },
+      {
+        "name": "Lycopodium",
+        "potency": "200",
+        "note": "Night."
+      }
+    ],
+    "raw_text": "Arnica 200 (2-4 drops morning & evening), Phytolacca 200 (afternoon), Lycopodium 200 (night)."
+  },
+  {
+    "id": "hp3-002",
+    "source_pdf": "Homeopathy_3",
+    "page": 1,
+    "date": null,
+    "date_raw": "Notebook 3, image 1",
+    "type": "clinical",
+    "condition": "Prostate problem (low urine flow)",
+    "remedies": [
+      {
+        "name": "Lycopodium",
+        "potency": "30",
+        "note": "Morning 2-3 drops."
+      },
+      {
+        "name": "Baryta Carbonica",
+        "potency": "30",
+        "note": "Afternoon 2-3 drops."
+      },
+      {
+        "name": "Conium Maculatum",
+        "potency": "30",
+        "note": "Evening 2-3 drops."
+      },
+      {
+        "name": "Sabal Serrulata",
+        "potency": "mother tincture (Q)",
+        "note": "Mix with Chimaphila Q; 15 drops morning & evening."
+      },
+      {
+        "name": "Chimaphila",
+        "potency": "mother tincture (Q)",
+        "note": "Mix with Sabal Serrulata Q."
+      }
+    ],
+    "raw_text": "Lycopodium 30 (morning 2-3 drops), Baryta Carb 30 (afternoon), Conium Mac 30 (evening) daily. Plus Sabal Serrulata Q + Chimaphila Q mix, 15 drops morning & evening."
+  },
+  {
+    "id": "hp3-003",
+    "source_pdf": "Homeopathy_3",
+    "page": 1,
+    "date": null,
+    "date_raw": "Notebook 3, image 1",
+    "type": "clinical",
+    "condition": "Child's delayed speech (बच्चे का देर से बोलना)",
+    "remedies": [
+      {
+        "name": "Baryta Carbonica",
+        "potency": "30",
+        "note": "2-3 drops morning."
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": "30",
+        "note": "2-3 drops evening."
+      },
+      {
+        "name": "Kali Phosphoricum",
+        "potency": "6x",
+        "note": "4 tablets three times daily."
+      }
+    ],
+    "raw_text": "Baryta Carb 30 (morning), Calc Carb 30 (evening), Kali Phos 6x (4 tablets three times daily)."
+  },
+  {
+    "id": "hp3-004",
+    "source_pdf": "Homeopathy_3",
+    "page": 1,
+    "date": null,
+    "date_raw": "Notebook 3, image 1",
+    "type": "clinical",
+    "condition": "Belching / gas on pressing abdomen",
+    "remedies": [
+      {
+        "name": "Valeriana Officinalis",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops morning, afternoon, night."
+      }
+    ],
+    "raw_text": "Valeriana Officinalis Q: 10 drops morning, afternoon, night."
+  },
+  {
+    "id": "hp3-005",
+    "source_pdf": "Homeopathy_3",
+    "page": 1,
+    "date": null,
+    "date_raw": "Notebook 3, image 1",
+    "type": "clinical",
+    "condition": "Old-age urinary problem",
+    "remedies": [
+      {
+        "name": "Ferrum Iodatum",
+        "potency": "30x",
+        "note": "4 tablets in lukewarm water, three times daily."
+      }
+    ],
+    "raw_text": "Ferrum Iod 30x: 4 tablets in half a cup of lukewarm water, morning, afternoon, evening."
+  },
+  {
+    "id": "hp3-006",
+    "source_pdf": "Homeopathy_3",
+    "page": 1,
+    "date": null,
+    "date_raw": "Notebook 3, image 1",
+    "type": "clinical",
+    "condition": "Eczema & skin disease",
+    "remedies": [
+      {
+        "name": "Arsenicum Iodatum",
+        "potency": "200",
+        "note": "2-3 drops every 2-3 days."
+      },
+      {
+        "name": "Echinacea",
+        "potency": "30",
+        "note": "One dose after three hours / daily.",
+        "flag": "written 'Echnesia'"
+      },
+      {
+        "name": "Antimonium Crudum",
+        "potency": "30",
+        "note": "For cracked skin/feet in eczema; evening/night."
+      }
+    ],
+    "raw_text": "Arsenic Iod 200 (2-3 drops every 3 days), Echinacea 30 (one dose after 3 hours), Antim Crud 30 (for cracked feet, 1-2 drops evening). Eczema variant: Arsenic Iod 200 every 2 days, Echinacea 30 daily, Antim Crud 30 at night for cracked skin."
+  },
+  {
+    "id": "hp3-007",
+    "source_pdf": "Homeopathy_3",
+    "page": 2,
+    "date": null,
+    "date_raw": "Notebook 3, image 2",
+    "type": "clinical",
+    "condition": "Bedwetting (बिस्तर में पेशाब)",
+    "remedies": [
+      {
+        "name": "Bergeskus texas",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops in water, morning & evening.",
+        "flag": "name uncertain"
+      }
+    ],
+    "raw_text": "Berberis? Q ('Bergeskus texas'): 10 drops in half a cup of water, morning & evening.",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-008",
+    "source_pdf": "Homeopathy_3",
+    "page": 2,
+    "date": null,
+    "date_raw": "Notebook 3, image 2",
+    "type": "clinical",
+    "condition": "Frequent nighttime urination",
+    "remedies": [
+      {
+        "name": "Rhus Aromatica",
+        "potency": "mother tincture (Q)",
+        "note": "15 drops morning & evening."
+      }
+    ],
+    "raw_text": "Rhus Aromatica Q: 15 drops morning & evening."
+  },
+  {
+    "id": "hp3-009",
+    "source_pdf": "Homeopathy_3",
+    "page": 2,
+    "date": null,
+    "date_raw": "Notebook 3, image 2",
+    "type": "clinical",
+    "condition": "Snoring (खर्राटे)",
+    "remedies": [
+      {
+        "name": "Lemna Minor",
+        "potency": "30",
+        "note": "For snoring."
+      }
+    ],
+    "raw_text": "Lemna Minor 30."
+  },
+  {
+    "id": "hp3-010",
+    "source_pdf": "Homeopathy_3",
+    "page": 2,
+    "date": null,
+    "date_raw": "Notebook 3, image 2",
+    "type": "clinical",
+    "condition": "Homeopathic antioxidant",
+    "remedies": [
+      {
+        "name": "Ginkgo Biloba",
+        "potency": null,
+        "note": "Antioxidant."
+      }
+    ],
+    "raw_text": "Ginkgo Biloba."
+  },
+  {
+    "id": "hp3-011",
+    "source_pdf": "Homeopathy_3",
+    "page": 2,
+    "date": null,
+    "date_raw": "Notebook 3, image 2",
+    "type": "clinical",
+    "condition": "Heart tightness / cholesterol / triglycerides",
+    "remedies": [
+      {
+        "name": "Cactus",
+        "potency": "mother tincture (Q)",
+        "note": "Heart mix; 10 drops three times."
+      },
+      {
+        "name": "Crataegus",
+        "potency": "mother tincture (Q)",
+        "note": "Heart mix."
+      },
+      {
+        "name": "Arnica",
+        "potency": "mother tincture (Q)",
+        "note": "Heart mix."
+      },
+      {
+        "name": "Terminalia Arjuna",
+        "potency": "mother tincture (Q)",
+        "note": "Heart mix."
+      }
+    ],
+    "raw_text": "Cactus Q + Crataegus Q + Arnica Q + Arjuna Q mixed; 10 drops in half a cup of water, morning, afternoon, night."
+  },
+  {
+    "id": "hp3-012",
+    "source_pdf": "Homeopathy_3",
+    "page": 2,
+    "date": null,
+    "date_raw": "Notebook 3, image 2",
+    "type": "clinical",
+    "condition": "Warts / Corns (मस्से, corn)",
+    "remedies": [
+      {
+        "name": "Causticum",
+        "potency": "200",
+        "note": "Warts."
+      },
+      {
+        "name": "Antimonium Crudum",
+        "potency": "200",
+        "note": "Corns."
+      },
+      {
+        "name": "Thuja",
+        "potency": "200",
+        "note": "Corns / warts."
+      }
+    ],
+    "raw_text": "Warts - Causticum 200 (morning & evening). Corn - Antim Crud 200, Thuja 200 (morning & evening)."
+  },
+  {
+    "id": "hp3-013",
+    "source_pdf": "Homeopathy_3",
+    "page": 3,
+    "date": null,
+    "date_raw": "Notebook 3, image 3",
+    "type": "clinical",
+    "condition": "Exclusive mother tinctures (reference list A)",
+    "remedies": [
+      {
+        "name": "Fraxinus Americana",
+        "potency": "mother tincture (Q)",
+        "note": "Uterine fibroids."
+      },
+      {
+        "name": "Rauwolfia Serpentina",
+        "potency": "mother tincture (Q)",
+        "note": "Hypertension."
+      },
+      {
+        "name": "Crataegus Oxyacantha",
+        "potency": "mother tincture (Q)",
+        "note": "Chronic heart disease."
+      },
+      {
+        "name": "Chelidonium Majus",
+        "potency": "mother tincture (Q)",
+        "note": "Liver problems, jaundice, gallbladder pain."
+      },
+      {
+        "name": "Quercus",
+        "potency": "mother tincture (Q)",
+        "note": "De-addiction of alcohol."
+      },
+      {
+        "name": "Syzygium Jambolanum",
+        "potency": "mother tincture (Q)",
+        "note": "Diabetes mellitus."
+      },
+      {
+        "name": "Cantharis",
+        "potency": "mother tincture (Q)",
+        "note": "Burns; fatty liver."
+      },
+      {
+        "name": "Carduus Marianus",
+        "potency": "mother tincture (Q)",
+        "note": "Externally to remove warts."
+      },
+      {
+        "name": "Iris Versicolor",
+        "potency": "mother tincture (Q)",
+        "note": "Pancreatitis."
+      },
+      {
+        "name": "Withania Somnifera",
+        "potency": "mother tincture (Q)",
+        "note": "Age-related debility, loss of power of thinking."
+      },
+      {
+        "name": "Yerba Santa",
+        "potency": "mother tincture (Q)",
+        "note": "Asthma."
+      }
+    ],
+    "raw_text": "Uterine fibroids-Fraxinus americana; Hypertension-Rauwolfia serpentina; Chronic heart disease-Crataegus oxyacantha; Liver/jaundice/gallbladder-Chelidonium majus; Alcohol de-addiction-Quercus; Diabetes mellitus-Syzygium jambolanum; Burns/fatty liver-Cantharis; Warts (external)-Carduus marianus; Pancreatitis-Iris versicolor; Age-related debility/loss of thinking-Withania somnifera; Asthma-Yerba santa."
+  },
+  {
+    "id": "hp3-014",
+    "source_pdf": "Homeopathy_3",
+    "page": 3,
+    "date": null,
+    "date_raw": "Notebook 3, image 3",
+    "type": "clinical",
+    "condition": "Asthma",
+    "remedies": [
+      {
+        "name": "Yerba Santa",
+        "potency": "mother tincture (Q)",
+        "note": "Asthma."
+      },
+      {
+        "name": "Blatta Orientalis",
+        "potency": null,
+        "note": "Breathlessness."
+      }
+    ],
+    "raw_text": "Yerba Santa Q (asthma), Blatta Orientalis (breathlessness)."
+  },
+  {
+    "id": "hp3-015",
+    "source_pdf": "Homeopathy_3",
+    "page": 3,
+    "date": null,
+    "date_raw": "Notebook 3, image 3",
+    "type": "clinical",
+    "condition": "Constipation in old age (वृद्धावस्था कब्ज)",
+    "remedies": [
+      {
+        "name": "Plumbum Metallicum",
+        "potency": "1M",
+        "note": "3-4 drops every four days."
+      }
+    ],
+    "raw_text": "Plumbum Met 1M: 3-4 drops every four days."
+  },
+  {
+    "id": "hp3-016",
+    "source_pdf": "Homeopathy_3",
+    "page": 3,
+    "date": null,
+    "date_raw": "Notebook 3, image 3",
+    "type": "clinical",
+    "condition": "Uric acid",
+    "remedies": [
+      {
+        "name": "Urtica Urens",
+        "potency": "mother tincture (Q) / 200",
+        "note": "Equal mix with Benzoic acid; 10 drops 3 times."
+      },
+      {
+        "name": "Benzoicum Acidum",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix with Urtica."
+      },
+      {
+        "name": "Colchicum",
+        "potency": "30 / 200",
+        "note": "For pain; every four hours.",
+        "flag": "written 'Cochicum'"
+      }
+    ],
+    "raw_text": "Urtica Urens Q + Benzoicum Acidum Q equal mix, 10 drops 3 times. For pain: Colchicum 30, or Urtica Urens 200 + Colchicum 200 mix every four hours."
+  },
+  {
+    "id": "hp3-017",
+    "source_pdf": "Homeopathy_3",
+    "page": 3,
+    "date": null,
+    "date_raw": "Notebook 3, image 3",
+    "type": "clinical",
+    "condition": "Sciatica L4-L5 (सायटिका)",
+    "remedies": [
+      {
+        "name": "Rhododendron",
+        "potency": "200",
+        "note": "Morning & evening.",
+        "flag": "written 'Rhodendran'"
+      },
+      {
+        "name": "Colocynth",
+        "potency": "200",
+        "note": "Morning & evening."
+      },
+      {
+        "name": "Ledum Palustre",
+        "potency": "200",
+        "note": "Afternoon & night."
+      },
+      {
+        "name": "Magnesia Phosphorica",
+        "potency": "6x",
+        "note": "16 tablets in lukewarm water through the day."
+      }
+    ],
+    "raw_text": "Rhododendron 200 (morning & evening), Colocynth 200 (morning & evening), Ledum P 200 (afternoon & night), Mag Phos 6x (16 tablets in lukewarm water, sipped through the day)."
+  },
+  {
+    "id": "hp3-018",
+    "source_pdf": "Homeopathy_3",
+    "page": 4,
+    "date": null,
+    "date_raw": "Notebook 3, image 4",
+    "type": "clinical",
+    "condition": "Parkinson's",
+    "remedies": [
+      {
+        "name": "Mucuna Pruriens",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops three times daily.",
+        "flag": "written 'Makuna'"
+      },
+      {
+        "name": "Causticum",
+        "potency": "1M",
+        "note": "2-3 drops once a week."
+      },
+      {
+        "name": "Agaricus",
+        "potency": "30",
+        "note": "With Zincum Met; three times daily."
+      },
+      {
+        "name": "Zincum Metallicum",
+        "potency": "30",
+        "note": "With Agaricus; three times daily."
+      }
+    ],
+    "raw_text": "Mucuna Q: 10 drops in water three times daily. Causticum 1M: 2-3 drops once a week. Agaricus 30 + Zincum Met 30: three times daily."
+  },
+  {
+    "id": "hp3-019",
+    "source_pdf": "Homeopathy_3",
+    "page": 4,
+    "date": null,
+    "date_raw": "Notebook 3, image 4",
+    "type": "clinical",
+    "condition": "Impotence (नपुंसकता)",
+    "remedies": [
+      {
+        "name": "Onosmodium",
+        "potency": "6",
+        "note": "10 drops morning & evening.",
+        "flag": "written 'Onsomodium v'"
+      },
+      {
+        "name": "Conium Maculatum",
+        "potency": "30",
+        "note": ""
+      },
+      {
+        "name": "Titanium",
+        "potency": "200",
+        "note": "2-3 drops morning & evening.",
+        "flag": "written 'Titenium m'"
+      }
+    ],
+    "raw_text": "Onosmodium 6 (10 drops morning & evening), Conium M 30, Titanium 200 (2-3 drops morning & evening)."
+  },
+  {
+    "id": "hp3-020",
+    "source_pdf": "Homeopathy_3",
+    "page": 4,
+    "date": null,
+    "date_raw": "Notebook 3, image 4",
+    "type": "clinical",
+    "condition": "Exclusive mother tinctures (reference list B, 31-50)",
+    "remedies": [
+      {
+        "name": "Hamamelis Virginiana",
+        "potency": "mother tincture (Q)",
+        "note": "Piles with bleeding."
+      },
+      {
+        "name": "Paeonia Officinalis",
+        "potency": "mother tincture (Q)",
+        "note": "Fissure in ano."
+      },
+      {
+        "name": "Aesculus Hippocastanum",
+        "potency": "mother tincture (Q)",
+        "note": "Varicose veins."
+      },
+      {
+        "name": "Hydrastis Canadensis",
+        "potency": "mother tincture (Q)",
+        "note": "Chronic sinusitis."
+      },
+      {
+        "name": "Baptisia Tinctoria",
+        "potency": "mother tincture (Q)",
+        "note": "Tonsillitis, throat infection."
+      },
+      {
+        "name": "Berberis Aquifolium",
+        "potency": "mother tincture (Q)",
+        "note": "Acne, oily skin."
+      },
+      {
+        "name": "Arsenicum Iodatum",
+        "potency": "mother tincture (Q)",
+        "note": "Psoriasis, chronic skin disease."
+      },
+      {
+        "name": "Graphites",
+        "potency": "mother tincture (Q)",
+        "note": "Eczema with itching."
+      },
+      {
+        "name": "Fucus Vesiculosus",
+        "potency": "mother tincture (Q)",
+        "note": "Obesity, sluggish metabolism."
+      },
+      {
+        "name": "Spongia Tosta",
+        "potency": "mother tincture (Q)",
+        "note": "Goitre, thyroid enlargement."
+      },
+      {
+        "name": "Passiflora Incarnata",
+        "potency": "mother tincture (Q)",
+        "note": "Insomnia."
+      },
+      {
+        "name": "Ignatia Amara",
+        "potency": "mother tincture (Q)",
+        "note": "Anxiety, nervous palpitation."
+      },
+      {
+        "name": "Sanguinaria Canadensis",
+        "potency": "mother tincture (Q)",
+        "note": "Migraine headache."
+      },
+      {
+        "name": "Plantago Major",
+        "potency": "mother tincture (Q)",
+        "note": "Toothache, dental neuralgia."
+      },
+      {
+        "name": "Borax",
+        "potency": "mother tincture (Q)",
+        "note": "Mouth ulcers, aphthae."
+      },
+      {
+        "name": "China Officinalis",
+        "potency": "mother tincture (Q)",
+        "note": "Recurrent fever."
+      },
+      {
+        "name": "Acidum Phosphoricum",
+        "potency": "mother tincture (Q)",
+        "note": "General weakness after illness."
+      },
+      {
+        "name": "Avena Sativa",
+        "potency": "mother tincture (Q)",
+        "note": "Sexual weakness (male)."
+      },
+      {
+        "name": "Kreosotum",
+        "potency": "mother tincture (Q)",
+        "note": "Female leucorrhoea."
+      },
+      {
+        "name": "Magnesia Phosphorica",
+        "potency": "mother tincture (Q)",
+        "note": "Menstrual pain (dysmenorrhoea)."
+      }
+    ],
+    "raw_text": "31 Piles w/bleeding-Hamamelis; 32 Fissure in ano-Paeonia; 33 Varicose veins-Aesculus hippocastanum; 34 Chronic sinusitis-Hydrastis; 35 Tonsillitis-Baptisia; 36 Acne/oily skin-Berberis aquifolium; 37 Psoriasis-Arsenicum iodatum; 38 Eczema w/itching-Graphites; 39 Obesity-Fucus vesiculosus; 40 Goitre-Spongia tosta; 41 Insomnia-Passiflora; 42 Anxiety/palpitation-Ignatia; 43 Migraine-Sanguinaria; 44 Toothache-Plantago; 45 Mouth ulcers-Borax; 46 Recurrent fever-China; 47 Weakness after illness-Acid phos; 48 Male sexual weakness-Avena sativa; 49 Leucorrhoea-Kreosotum; 50 Dysmenorrhea-Mag phos."
+  },
+  {
+    "id": "hp3-021",
+    "source_pdf": "Homeopathy_3",
+    "page": 4,
+    "date": null,
+    "date_raw": "Notebook 3, image 4",
+    "type": "clinical",
+    "condition": "Night blindness",
+    "remedies": [
+      {
+        "name": "Physostigma",
+        "potency": "30",
+        "note": "Night blindness.",
+        "flag": "written 'Physostigm'"
+      }
+    ],
+    "raw_text": "Physostigma 30."
+  },
+  {
+    "id": "hp3-022",
+    "source_pdf": "Homeopathy_3",
+    "page": 4,
+    "date": null,
+    "date_raw": "Notebook 3, image 4",
+    "type": "clinical",
+    "condition": "Blood pressure & heart",
+    "remedies": [
+      {
+        "name": "Passiflora",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix; 10 drops three times."
+      },
+      {
+        "name": "Crataegus",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Rauwolfia",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix.",
+        "flag": "written 'Rolwlfia'"
+      },
+      {
+        "name": "Baryta Muriatica",
+        "potency": "200",
+        "note": "2-4 drops daily morning."
+      }
+    ],
+    "raw_text": "Passiflora Q + Crataegus Q + Rauwolfia Q equal mix, 10 drops three times. Baryta Mur 200: 2-4 drops daily morning."
+  },
+  {
+    "id": "hp3-023",
+    "source_pdf": "Homeopathy_3",
+    "page": 4,
+    "date": null,
+    "date_raw": "Notebook 3, image 4",
+    "type": "clinical",
+    "condition": "Lung cleaning + asthma + cough",
+    "remedies": [
+      {
+        "name": "Blatta Orientalis",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix; 10 drops three times."
+      },
+      {
+        "name": "Aspidosperma",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Grindelia",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      }
+    ],
+    "raw_text": "Blatta Orientalis Q + Aspidosperma Q + Grindelia Q equal mix, 10 drops three times daily."
+  },
+  {
+    "id": "hp3-024",
+    "source_pdf": "Homeopathy_3",
+    "page": 5,
+    "date": null,
+    "date_raw": "Notebook 3, image 5",
+    "type": "clinical",
+    "condition": "Bone strength (हड्डी मजबूती)",
+    "remedies": [
+      {
+        "name": "Symphytum",
+        "potency": "mother tincture (Q)",
+        "note": "15 drops three times."
+      },
+      {
+        "name": "Homeocol",
+        "potency": null,
+        "note": "Proprietary.",
+        "flag": "proprietary"
+      },
+      {
+        "name": "Calcarea Phosphorica",
+        "potency": null,
+        "note": "With Calc Fluor."
+      },
+      {
+        "name": "Calcarea Fluorica",
+        "potency": null,
+        "note": "With Calc Phos."
+      }
+    ],
+    "raw_text": "Symphytum Q (15 drops 3 times). Homeocol, or Calc Phos + Calc Fluor."
+  },
+  {
+    "id": "hp3-025",
+    "source_pdf": "Homeopathy_3",
+    "page": 5,
+    "date": null,
+    "date_raw": "Notebook 3, image 5",
+    "type": "clinical",
+    "condition": "Sleep (नींद)",
+    "remedies": [
+      {
+        "name": "Passiflora",
+        "potency": "mother tincture (Q)",
+        "note": "15 drops morning & evening."
+      },
+      {
+        "name": "Kali Phosphoricum",
+        "potency": "6x",
+        "note": "4 tablets three times."
+      }
+    ],
+    "raw_text": "Passiflora Q (15 drops morning & evening), Kali Phos 6x (4 tablets three times)."
+  },
+  {
+    "id": "hp3-026",
+    "source_pdf": "Homeopathy_3",
+    "page": 5,
+    "date": null,
+    "date_raw": "Notebook 3, image 5",
+    "type": "clinical",
+    "condition": "Sleep apnea (सोते समय सांस रुकना)",
+    "remedies": [
+      {
+        "name": "Grindelia",
+        "potency": "200",
+        "note": "2-4 drops, morning & evening."
+      }
+    ],
+    "raw_text": "Grindelia 200: 2-4 drops through the day, morning & evening."
+  },
+  {
+    "id": "hp3-027",
+    "source_pdf": "Homeopathy_3",
+    "page": 5,
+    "date": null,
+    "date_raw": "Notebook 3, image 5",
+    "type": "clinical",
+    "condition": "Triglycerides & cholesterol (info)",
+    "remedies": [
+      {
+        "name": "Cynara Scolymus",
+        "potency": "mother tincture (Q)",
+        "note": "With doctor's advice."
+      },
+      {
+        "name": "Cholesterinum",
+        "potency": "3x",
+        "note": "2 tablets three times daily."
+      },
+      {
+        "name": "Guatteria Gaumeri",
+        "potency": "mother tincture (Q)",
+        "note": "10-15 drops."
+      }
+    ],
+    "raw_text": "Cynara Scolymus Q (with doctor's advice), Cholesterinum 3x (2 tablets three times daily), Guatteria Gaumeri Q (10-15 drops). Diet: garlic, oats, fibre, olive oil."
+  },
+  {
+    "id": "hp3-028",
+    "source_pdf": "Homeopathy_3",
+    "page": 5,
+    "date": null,
+    "date_raw": "Notebook 3, image 5",
+    "type": "clinical",
+    "condition": "Fear of darkness (अंधेरे से डर)",
+    "remedies": [
+      {
+        "name": "Stramonium",
+        "potency": "30",
+        "note": "Fear of darkness."
+      }
+    ],
+    "raw_text": "Stramonium 30."
+  },
+  {
+    "id": "hp3-029",
+    "source_pdf": "Homeopathy_3",
+    "page": 5,
+    "date": null,
+    "date_raw": "Notebook 3, image 5",
+    "type": "clinical",
+    "condition": "Cough / phlegm (खांसी कफ)",
+    "remedies": [
+      {
+        "name": "Bryonia",
+        "potency": "30",
+        "note": "Alternately every 2 hours.",
+        "flag": "written 'Broniya'"
+      },
+      {
+        "name": "Antimonium Tartaricum",
+        "potency": "30",
+        "note": "Alternately every 2 hours."
+      },
+      {
+        "name": "Spongia",
+        "potency": "30",
+        "note": "Alternately every 2 hours."
+      },
+      {
+        "name": "Ammonium Carbonicum",
+        "potency": "30",
+        "note": "If no relief; morning & night."
+      },
+      {
+        "name": "Rumex",
+        "potency": "30",
+        "note": "Cough worse in cold air."
+      }
+    ],
+    "raw_text": "Bryonia 30, Antim Tart 30, Spongia 30 alternately every 2 hours. If no relief: Ammonium Carb 30 (morning & night). Cough worse in cold air: Rumex 30."
+  },
+  {
+    "id": "hp3-030",
+    "source_pdf": "Homeopathy_3",
+    "page": 6,
+    "date": null,
+    "date_raw": "Notebook 3, image 6",
+    "type": "clinical",
+    "condition": "Gangrene",
+    "remedies": [
+      {
+        "name": "Secale Cornutum",
+        "potency": "200",
+        "note": "2-3 drops morning & evening.",
+        "flag": "written 'Sekele core'"
+      }
+    ],
+    "raw_text": "Secale Cornutum 200: 2-3 drops morning & evening."
+  },
+  {
+    "id": "hp3-031",
+    "source_pdf": "Homeopathy_3",
+    "page": 6,
+    "date": null,
+    "date_raw": "Notebook 3, image 6",
+    "type": "clinical",
+    "condition": "Miscarriage prevention (गर्भपात रोकना)",
+    "remedies": [
+      {
+        "name": "Sabina",
+        "potency": "200",
+        "note": "2-3 drops morning & night."
+      },
+      {
+        "name": "Viburnum Prunifolium",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops in water morning & night."
+      }
+    ],
+    "raw_text": "Sabina 200 (morning & night), Viburnum Prunifolium Q (10 drops in water morning & night)."
+  },
+  {
+    "id": "hp3-032",
+    "source_pdf": "Homeopathy_3",
+    "page": 6,
+    "date": null,
+    "date_raw": "Notebook 3, image 6",
+    "type": "clinical",
+    "condition": "Children born deaf / mute",
+    "remedies": [
+      {
+        "name": "Mephitis",
+        "potency": "200",
+        "note": "2-3 drops daily.",
+        "flag": "written 'Mephitis put'"
+      }
+    ],
+    "raw_text": "Mephitis 200: 2-3 drops daily."
+  },
+  {
+    "id": "hp3-033",
+    "source_pdf": "Homeopathy_3",
+    "page": 6,
+    "date": null,
+    "date_raw": "Notebook 3, image 6",
+    "type": "clinical",
+    "condition": "Herpes",
+    "remedies": [
+      {
+        "name": "Variolinum",
+        "potency": "30",
+        "note": "With Ranunculus; every 2 hours.",
+        "flag": "name uncertain (written 'Verilonum')"
+      },
+      {
+        "name": "Ranunculus Bulbosus",
+        "potency": "30",
+        "note": "With Variolinum."
+      },
+      {
+        "name": "Arsenicum Album",
+        "potency": "30",
+        "note": "3 times daily."
+      }
+    ],
+    "raw_text": "Variolinum 30 + Ranunculus 30 (2-4 drops every 2 hours), Arsenic Alb 30 (3 times daily).",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-034",
+    "source_pdf": "Homeopathy_3",
+    "page": 6,
+    "date": null,
+    "date_raw": "Notebook 3, image 6",
+    "type": "clinical",
+    "condition": "Cold feet (पैर ठंडा रहना)",
+    "remedies": [
+      {
+        "name": "Belladonna",
+        "potency": "30",
+        "note": "Cold feet."
+      },
+      {
+        "name": "Calcarea Carbonica",
+        "potency": "30",
+        "note": "Cold, sticky, sweaty feet."
+      },
+      {
+        "name": "Agaricus",
+        "potency": "30",
+        "note": "Cold feet with numbness."
+      }
+    ],
+    "raw_text": "Belladonna 30. Calc Carb 30 (cold sticky sweaty feet). Agaricus 30 (cold feet with numbness)."
+  },
+  {
+    "id": "hp3-035",
+    "source_pdf": "Homeopathy_3",
+    "page": 6,
+    "date": null,
+    "date_raw": "Notebook 3, image 6",
+    "type": "clinical",
+    "condition": "Liver cyst / kidney cyst",
+    "remedies": [
+      {
+        "name": "Teucrium?",
+        "potency": "CM",
+        "note": "Single dose. Name unreadable in source.",
+        "flag": "name uncertain"
+      }
+    ],
+    "raw_text": "'Tucerium merum berum' CM potency: single dose (name unclear).",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-036",
+    "source_pdf": "Homeopathy_3",
+    "page": 6,
+    "date": null,
+    "date_raw": "Notebook 3, image 6",
+    "type": "clinical",
+    "condition": "Edema / ascites (सूजन, पेट में पानी)",
+    "remedies": [
+      {
+        "name": "Oxydendrum Arboreum",
+        "potency": "30",
+        "note": "3-4 drops morning & evening."
+      }
+    ],
+    "raw_text": "Oxydendrum Arboreum 30: 3-4 drops morning & evening."
+  },
+  {
+    "id": "hp3-037",
+    "source_pdf": "Homeopathy_3",
+    "page": 6,
+    "date": null,
+    "date_raw": "Notebook 3, image 6",
+    "type": "clinical",
+    "condition": "Water in lungs (pleural effusion)",
+    "remedies": [
+      {
+        "name": "Arsenicum Album",
+        "potency": "30",
+        "note": "Morning & evening."
+      },
+      {
+        "name": "Mercurius Sulphuricus",
+        "potency": "30",
+        "note": "Afternoon & night."
+      },
+      {
+        "name": "TNT",
+        "potency": "30",
+        "note": "For platelets; three times.",
+        "flag": "name uncertain"
+      }
+    ],
+    "raw_text": "Arsenic Alb 30 (morning & evening), Merc Sulph 30 (afternoon & night). Platelets: TNT 30 three times.",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-038",
+    "source_pdf": "Homeopathy_3",
+    "page": 7,
+    "date": null,
+    "date_raw": "Notebook 3, image 7",
+    "type": "clinical",
+    "condition": "Sensitivity to cold and heat",
+    "remedies": [
+      {
+        "name": "Bacillinum",
+        "potency": "1M",
+        "note": "2-3 drops once a week.",
+        "flag": "written 'Baisllinum'"
+      },
+      {
+        "name": "Phyllanthus Niruri",
+        "potency": null,
+        "note": "Bhumi amla; morning & evening.",
+        "flag": "written 'Phylenthus nitrus'"
+      },
+      {
+        "name": "Alserum (serum anguillae?)",
+        "potency": "30",
+        "note": "2-4 drops 3 times daily.",
+        "flag": "name uncertain"
+      }
+    ],
+    "raw_text": "Bacillinum 1M: 2-3 drops once a week. Phyllanthus Niruri (bhumi amla): morning & evening. Alserum 30: 2-4 drops 3 times daily.",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-039",
+    "source_pdf": "Homeopathy_3",
+    "page": 7,
+    "date": null,
+    "date_raw": "Notebook 3, image 7",
+    "type": "clinical",
+    "condition": "Healthy teeth / pyorrhoea",
+    "remedies": [
+      {
+        "name": "Pyrogenium",
+        "potency": "200",
+        "note": "Once daily 15 days for pyorrhoea, then weekly."
+      }
+    ],
+    "raw_text": "Pyrogenium 200: once daily for 15 days, then once a week."
+  },
+  {
+    "id": "hp3-040",
+    "source_pdf": "Homeopathy_3",
+    "page": 7,
+    "date": null,
+    "date_raw": "Notebook 3, image 7",
+    "type": "clinical",
+    "condition": "Heart blockage / triglycerides / cholesterol",
+    "remedies": [
+      {
+        "name": "Crataegus Oxyacantha",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix; 20-25 drops three times."
+      },
+      {
+        "name": "Arnica",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Terminalia Arjuna",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Cactus",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Guatteria Gaumeri",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Digitalis",
+        "potency": "30",
+        "note": "Breathlessness; every 15 min.",
+        "flag": "written 'Degetelis'"
+      },
+      {
+        "name": "Cholesterinum",
+        "potency": "3x",
+        "note": "4 tablets morning & evening."
+      }
+    ],
+    "raw_text": "Crataegus Ox Q + Arnica Q + Arjuna Q + Cactus Q + Guatteria Q equal mix, 20-25 drops three times daily. Breathlessness: Digitalis 30 every 15 min. Cholesterinum 3x: 4 tablets morning & evening."
+  },
+  {
+    "id": "hp3-041",
+    "source_pdf": "Homeopathy_3",
+    "page": 7,
+    "date": null,
+    "date_raw": "Notebook 3, image 7",
+    "type": "clinical",
+    "condition": "Blood clotting problem",
+    "remedies": [
+      {
+        "name": "Lachesis",
+        "potency": "200",
+        "note": "2-3 drops daily."
+      }
+    ],
+    "raw_text": "Lachesis 200: 2-3 drops daily."
+  },
+  {
+    "id": "hp3-042",
+    "source_pdf": "Homeopathy_3",
+    "page": 7,
+    "date": null,
+    "date_raw": "Notebook 3, image 7",
+    "type": "clinical",
+    "condition": "Anaemia / Thalassemia (हीमोग्लोबिन कम)",
+    "remedies": [
+      {
+        "name": "TNT",
+        "potency": "30",
+        "note": "2-3 drops 2-3 times daily.",
+        "flag": "name uncertain"
+      }
+    ],
+    "raw_text": "TNT 30: 2-3 drops two-three times daily.",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-043",
+    "source_pdf": "Homeopathy_3",
+    "page": 7,
+    "date": null,
+    "date_raw": "Notebook 3, image 7",
+    "type": "clinical",
+    "condition": "Physical exhaustion (शारीरिक थकान)",
+    "remedies": [
+      {
+        "name": "Ammonium Carbonicum",
+        "potency": "30",
+        "note": "2-3 drops three times."
+      }
+    ],
+    "raw_text": "Ammonium Carb 30: 2-3 drops morning, afternoon, evening."
+  },
+  {
+    "id": "hp3-044",
+    "source_pdf": "Homeopathy_3",
+    "page": 8,
+    "date": null,
+    "date_raw": "Notebook 3, image 8",
+    "type": "clinical",
+    "condition": "Tailbone pain (coccyx)",
+    "remedies": [
+      {
+        "name": "Agaricus",
+        "potency": "30",
+        "note": "Pain while sitting, relieved by walking."
+      },
+      {
+        "name": "Aesculus Hippocastanum",
+        "potency": null,
+        "note": ""
+      },
+      {
+        "name": "Cimicifuga",
+        "potency": "30",
+        "note": "",
+        "flag": "written 'Simsifuga r'"
+      }
+    ],
+    "raw_text": "Agaricus 30 (pain sitting, better walking), Aesculus H, Cimicifuga 30."
+  },
+  {
+    "id": "hp3-045",
+    "source_pdf": "Homeopathy_3",
+    "page": 8,
+    "date": null,
+    "date_raw": "Notebook 3, image 8",
+    "type": "clinical",
+    "condition": "Epilepsy seizures (मिर्गी)",
+    "remedies": [
+      {
+        "name": "Cuprum Metallicum",
+        "potency": "200",
+        "note": "2-3 drops morning & evening."
+      }
+    ],
+    "raw_text": "Cuprum Met 200: 2-3 drops morning & evening."
+  },
+  {
+    "id": "hp3-046",
+    "source_pdf": "Homeopathy_3",
+    "page": 8,
+    "date": null,
+    "date_raw": "Notebook 3, image 8",
+    "type": "clinical",
+    "condition": "Bone healing (हड्डी जोड़ना)",
+    "remedies": [
+      {
+        "name": "Arnica",
+        "potency": "200",
+        "note": "3 times daily."
+      },
+      {
+        "name": "Symphytum",
+        "potency": "200",
+        "note": "3 times daily."
+      },
+      {
+        "name": "Calcarea Phosphorica",
+        "potency": "6x",
+        "note": "4 tablets 4 times daily."
+      }
+    ],
+    "raw_text": "Arnica 200 + Symphytum 200 (both 3 times daily), Calc Phos 6x (4 tablets 4 times daily)."
+  },
+  {
+    "id": "hp3-047",
+    "source_pdf": "Homeopathy_3",
+    "page": 8,
+    "date": null,
+    "date_raw": "Notebook 3, image 8",
+    "type": "clinical",
+    "condition": "Triglycerides / cholesterol (mix)",
+    "remedies": [
+      {
+        "name": "Allium Sativum",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix; 15 drops three times."
+      },
+      {
+        "name": "Guatteria Gaumeri",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Terminalia Arjuna",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Crataegus",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      }
+    ],
+    "raw_text": "Allium Sativum Q + Guatteria Gaumeri Q + Arjuna Q + Crataegus Q mix: 15 drops morning, afternoon, night."
+  },
+  {
+    "id": "hp3-048",
+    "source_pdf": "Homeopathy_3",
+    "page": 8,
+    "date": null,
+    "date_raw": "Notebook 3, image 8",
+    "type": "clinical",
+    "condition": "Low / high BP",
+    "remedies": [
+      {
+        "name": "Tonicard",
+        "potency": "mother tincture (Q)",
+        "note": "15 drops morning & evening.",
+        "flag": "proprietary"
+      },
+      {
+        "name": "Baryta Muriatica",
+        "potency": "200",
+        "note": "Daily."
+      }
+    ],
+    "raw_text": "Tonicard Q (15 drops morning & evening), Baryta Mur 200 daily."
+  },
+  {
+    "id": "hp3-049",
+    "source_pdf": "Homeopathy_3",
+    "page": 8,
+    "date": null,
+    "date_raw": "Notebook 3, image 8",
+    "type": "clinical",
+    "condition": "Ganglion cyst on wrist (कलाई पर गांठ)",
+    "remedies": [
+      {
+        "name": "Baryta Carbonica",
+        "potency": "10M",
+        "note": "2-3 drops every 15 days for 2-3 months."
+      }
+    ],
+    "raw_text": "Baryta Carb 10M: 2-3 drops every 15 days for 2-3 months."
+  },
+  {
+    "id": "hp3-050",
+    "source_pdf": "Homeopathy_3",
+    "page": 8,
+    "date": null,
+    "date_raw": "Notebook 3, image 8",
+    "type": "clinical",
+    "condition": "Vitiligo (सफ़ेद दाग)",
+    "remedies": [
+      {
+        "name": "Ammi Visnaga",
+        "potency": "mother tincture (Q)",
+        "note": "Topical application."
+      }
+    ],
+    "raw_text": "Ammi Visnaga Q: topical application."
+  },
+  {
+    "id": "hp3-051",
+    "source_pdf": "Homeopathy_3",
+    "page": 8,
+    "date": null,
+    "date_raw": "Notebook 3, image 8",
+    "type": "clinical",
+    "condition": "Bone spur / bone enlargement",
+    "remedies": [
+      {
+        "name": "Argentum Metallicum",
+        "potency": "30",
+        "note": "Bone spur / enlargement."
+      }
+    ],
+    "raw_text": "Argentum Metallicum 30."
+  },
+  {
+    "id": "hp3-052",
+    "source_pdf": "Homeopathy_3",
+    "page": 8,
+    "date": null,
+    "date_raw": "Notebook 3, image 8",
+    "type": "clinical",
+    "condition": "Uterine / ovarian cysts (गर्भाशय सिस्ट)",
+    "remedies": [
+      {
+        "name": "Apis Mellifica",
+        "potency": "30",
+        "note": "Right-side cyst."
+      },
+      {
+        "name": "Oophorinum",
+        "potency": "30",
+        "note": "Morning & evening.",
+        "flag": "written 'Overinum'"
+      }
+    ],
+    "raw_text": "Apis M 30 (right side cyst), Oophorinum 30 (morning & evening)."
+  },
+  {
+    "id": "hp3-053",
+    "source_pdf": "Homeopathy_3",
+    "page": 9,
+    "date": null,
+    "date_raw": "Notebook 3, image 9",
+    "type": "clinical",
+    "condition": "Bleeding (खून गिरना)",
+    "remedies": [
+      {
+        "name": "Millefolium",
+        "potency": "200",
+        "note": "4-5 drops morning & night."
+      }
+    ],
+    "raw_text": "Millefolium 200: 4-5 drops morning & night."
+  },
+  {
+    "id": "hp3-054",
+    "source_pdf": "Homeopathy_3",
+    "page": 9,
+    "date": null,
+    "date_raw": "Notebook 3, image 9",
+    "type": "clinical",
+    "condition": "Burning pain in palms (हथेली में जलन)",
+    "remedies": [
+      {
+        "name": "Azadirachta Indica",
+        "potency": "30",
+        "note": "Three times daily."
+      }
+    ],
+    "raw_text": "Azadirachta Indica 30: morning, afternoon, night."
+  },
+  {
+    "id": "hp3-055",
+    "source_pdf": "Homeopathy_3",
+    "page": 9,
+    "date": null,
+    "date_raw": "Notebook 3, image 9",
+    "type": "clinical",
+    "condition": "Ascites (पेट में पानी)",
+    "remedies": [
+      {
+        "name": "Apis Mellifica",
+        "potency": "1M",
+        "note": "Once a week; burning pain."
+      },
+      {
+        "name": "Arsenicum Album",
+        "potency": "30",
+        "note": "Extreme thirst, small sips of water."
+      },
+      {
+        "name": "Litrus alb",
+        "potency": "30",
+        "note": "Swelling. Name unclear.",
+        "flag": "name uncertain"
+      }
+    ],
+    "raw_text": "Apis M 1M (2-3 drops once a week, burning pain), Arsenic Alb 30 (extreme thirst, small sips), Litrus Alb 30 (swelling).",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-056",
+    "source_pdf": "Homeopathy_3",
+    "page": 9,
+    "date": null,
+    "date_raw": "Notebook 3, image 9",
+    "type": "clinical",
+    "condition": "Cancer prevention / patients",
+    "remedies": [
+      {
+        "name": "Carcinosin",
+        "potency": "1M",
+        "note": "Once a month for 6 months, preventive."
+      },
+      {
+        "name": "Hydrastis",
+        "potency": "mother tincture (Q)",
+        "note": "20 drops in water 3 times daily."
+      },
+      {
+        "name": "Echinacea",
+        "potency": "mother tincture (Q)",
+        "note": "Blood cancer; 15 drops morning & evening."
+      }
+    ],
+    "raw_text": "Carcinosin 1M (once a month x6 as preventive), Hydrastis Q (20 drops in water 3 times daily). Blood cancer: Echinacea Q (15 drops morning & evening)."
+  },
+  {
+    "id": "hp3-057",
+    "source_pdf": "Homeopathy_3",
+    "page": 9,
+    "date": null,
+    "date_raw": "Notebook 3, image 9",
+    "type": "clinical",
+    "condition": "Enlarged heart (हार्ट बढ़ना)",
+    "remedies": [
+      {
+        "name": "Arsenicum Album",
+        "potency": "200",
+        "note": "Enlarged heart."
+      },
+      {
+        "name": "Naja",
+        "potency": "200",
+        "note": "Enlarged heart."
+      }
+    ],
+    "raw_text": "Arsenic Alb 200, Naja 200."
+  },
+  {
+    "id": "hp3-058",
+    "source_pdf": "Homeopathy_3",
+    "page": 9,
+    "date": null,
+    "date_raw": "Notebook 3, image 9",
+    "type": "clinical",
+    "condition": "Migraine",
+    "remedies": [
+      {
+        "name": "Chionanthus",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops three times."
+      },
+      {
+        "name": "Sanguinaria",
+        "potency": "30",
+        "note": "Right-side pain."
+      },
+      {
+        "name": "Spigelia",
+        "potency": "30",
+        "note": "Left-side pain."
+      }
+    ],
+    "raw_text": "Chionanthus Q (10 drops in water three times), Sanguinaria 30 (right-side pain), Spigelia 30 (left-side pain) every 2 hours."
+  },
+  {
+    "id": "hp3-059",
+    "source_pdf": "Homeopathy_3",
+    "page": 9,
+    "date": null,
+    "date_raw": "Notebook 3, image 9",
+    "type": "clinical",
+    "condition": "Eyes (आँख)",
+    "remedies": [
+      {
+        "name": "Physostigma",
+        "potency": "30",
+        "note": "Redness, watering."
+      },
+      {
+        "name": "Euphrasia",
+        "potency": "30",
+        "note": "Watering.",
+        "flag": "written 'Ufresia'"
+      },
+      {
+        "name": "Artemisia Vulgaris",
+        "potency": "30",
+        "note": "Eye injury / bleeding."
+      },
+      {
+        "name": "Causticum",
+        "potency": "1M",
+        "note": "Old cases."
+      },
+      {
+        "name": "Dulcamara",
+        "potency": "1M",
+        "note": "Flat warts."
+      }
+    ],
+    "raw_text": "Physostigma 30 (redness, watering), Euphrasia 30 (watering), Artemisia V 30 (injury/bleeding) every 2 hours. Also Causticum 1M (old cases), Dulcamara 1M (flat warts)."
+  },
+  {
+    "id": "hp3-060",
+    "source_pdf": "Homeopathy_3",
+    "page": 10,
+    "date": null,
+    "date_raw": "Notebook 3, image 10",
+    "type": "clinical",
+    "condition": "Bacterial disease / gonorrhoea / typhoid / nosebleed / piles",
+    "remedies": [
+      {
+        "name": "Ficus Religiosa",
+        "potency": "mother tincture (Q)",
+        "note": "With Ficus Indica; 15 drops."
+      },
+      {
+        "name": "Ficus Indica",
+        "potency": "mother tincture (Q)",
+        "note": "With Ficus Religiosa."
+      }
+    ],
+    "raw_text": "Ficus Religiosa Q + Ficus Indica Q mix: 15 drops in water."
+  },
+  {
+    "id": "hp3-061",
+    "source_pdf": "Homeopathy_3",
+    "page": 10,
+    "date": null,
+    "date_raw": "Notebook 3, image 10",
+    "type": "clinical",
+    "condition": "Body swelling (शरीर में सूजन)",
+    "remedies": [
+      {
+        "name": "Litras spicata",
+        "potency": "mother tincture (Q)",
+        "note": "Body swelling. Name unclear.",
+        "flag": "name uncertain"
+      }
+    ],
+    "raw_text": "Litras spicata Q (name unclear).",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-062",
+    "source_pdf": "Homeopathy_3",
+    "page": 10,
+    "date": null,
+    "date_raw": "Notebook 3, image 10",
+    "type": "clinical",
+    "condition": "Knee pain (घुटने का दर्द)",
+    "remedies": [
+      {
+        "name": "Argentum Metallicum",
+        "potency": "200",
+        "note": "Equal mix; 3-4 drops three times."
+      },
+      {
+        "name": "Ruta",
+        "potency": "200",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Arnica",
+        "potency": "200",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Symphytum",
+        "potency": "200",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "potency": "200",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Guaiacum",
+        "potency": "30",
+        "note": "Stiffness / arthritis.",
+        "flag": "written 'Guicum'"
+      }
+    ],
+    "raw_text": "Argentum Met 200 + Ruta 200 + Arnica 200 + Symphytum 200 + Rhus Tox 200 mix: 3-4 drops three times. Stiffness/arthritis: Guaiacum 30."
+  },
+  {
+    "id": "hp3-063",
+    "source_pdf": "Homeopathy_3",
+    "page": 10,
+    "date": null,
+    "date_raw": "Notebook 3, image 10",
+    "type": "clinical",
+    "condition": "Numbness / tingling in hands & feet (नसों की सुन्नता)",
+    "remedies": [
+      {
+        "name": "Gelsemium",
+        "potency": "30",
+        "note": "Equal mix; 10 drops three times."
+      },
+      {
+        "name": "Plumbum Metallicum",
+        "potency": "30 / 200",
+        "note": "Equal mix; 200 for slow nerve weakening."
+      },
+      {
+        "name": "Phosphorus",
+        "potency": "30",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Kali Phosphoricum",
+        "potency": "30",
+        "note": "Equal mix."
+      }
+    ],
+    "raw_text": "Gelsemium 30 + Plumbum Met 30 + Phosphorus 30 + Kali Phos 30 mix: 10 drops three times. Slow nerve weakening: Plumbum Met 200 (morning & evening)."
+  },
+  {
+    "id": "hp3-064",
+    "source_pdf": "Homeopathy_3",
+    "page": 10,
+    "date": null,
+    "date_raw": "Notebook 3, image 10",
+    "type": "clinical",
+    "condition": "Piles (बवासीर)",
+    "remedies": [
+      {
+        "name": "Aesculus Hippocastanum",
+        "potency": "30",
+        "note": "Alternately every 2 hours."
+      },
+      {
+        "name": "Ratanhia",
+        "potency": "30",
+        "note": "Alternately every 2 hours."
+      },
+      {
+        "name": "Nitricum Acidum",
+        "potency": "30",
+        "note": "Alternately every 2 hours.",
+        "flag": "written 'Acid nitricum'"
+      },
+      {
+        "name": "Cannabis Sativa",
+        "potency": "30",
+        "note": "At night."
+      },
+      {
+        "name": "Millefolium",
+        "potency": "200",
+        "note": "For bleeding; morning & night."
+      }
+    ],
+    "raw_text": "Aesculus H 30, Ratanhia 30, Nitric Acid 30 alternately every 2 hours. Cannabis S 30 at night. Bleeding: Millefolium 200 (morning & night)."
+  },
+  {
+    "id": "hp3-065",
+    "source_pdf": "Homeopathy_3",
+    "page": 10,
+    "date": null,
+    "date_raw": "Notebook 3, image 10",
+    "type": "clinical",
+    "condition": "Cancer",
+    "remedies": [
+      {
+        "name": "Carcinosin",
+        "potency": "1M",
+        "note": "Family history / fear from lump; once in 6 months."
+      },
+      {
+        "name": "Hang nan",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops three times. Name unclear.",
+        "flag": "name uncertain"
+      },
+      {
+        "name": "Echinacea",
+        "potency": null,
+        "note": "Blood cancer."
+      }
+    ],
+    "raw_text": "Family history: Carcinosin 1M once in 6 months. Fear from a lump: Carcinosin 1M. Hang nan Q (10 drops in water 3 times; said to destroy cancer cells). Blood cancer: Echinacea.",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-066",
+    "source_pdf": "Homeopathy_3",
+    "page": 11,
+    "date": null,
+    "date_raw": "Notebook 3, image 11",
+    "type": "clinical",
+    "condition": "Diabetes (डायबिटीज)",
+    "remedies": [
+      {
+        "name": "Insulinum",
+        "potency": "200",
+        "note": "3-4 drops once a week; insulin resistance."
+      },
+      {
+        "name": "Syzygium Jambolanum",
+        "potency": "mother tincture (Q)",
+        "note": "15 drops three times before meals."
+      },
+      {
+        "name": "Acidum Phosphoricum",
+        "potency": "6",
+        "note": "With Uranium Nit 6."
+      },
+      {
+        "name": "Uranium Nitricum",
+        "potency": "6",
+        "note": "With Acid Phos 6."
+      }
+    ],
+    "raw_text": "Insulinum 200 (3-4 drops once a week to end insulin resistance), Syzygium Jambolanum Q (15 drops three times before meals), Acid Phos 6 + Uranium Nit 6 mix."
+  },
+  {
+    "id": "hp3-067",
+    "source_pdf": "Homeopathy_3",
+    "page": 11,
+    "date": null,
+    "date_raw": "Notebook 3, image 11",
+    "type": "clinical",
+    "condition": "Insomnia (अनिद्रा)",
+    "remedies": [
+      {
+        "name": "Passiflora",
+        "potency": "mother tincture (Q)",
+        "note": "15 drops in water, for one month."
+      },
+      {
+        "name": "Valeriana Officinalis",
+        "potency": "mother tincture (Q)",
+        "note": "15 drops evening; also menstrual problems."
+      }
+    ],
+    "raw_text": "Passiflora Q (15 drops in water, for 1 month). Valeriana Off Q (15 drops evening; also helps menstrual problems)."
+  },
+  {
+    "id": "hp3-068",
+    "source_pdf": "Homeopathy_3",
+    "page": 11,
+    "date": null,
+    "date_raw": "Notebook 3, image 11",
+    "type": "clinical",
+    "condition": "Nocturnal muscle cramps (रात में नस चढ़ना)",
+    "remedies": [
+      {
+        "name": "Cuprum Metallicum",
+        "potency": "30",
+        "note": "Nocturnal cramps."
+      }
+    ],
+    "raw_text": "Cuprum Met 30."
+  },
+  {
+    "id": "hp3-069",
+    "source_pdf": "Homeopathy_3",
+    "page": 11,
+    "date": null,
+    "date_raw": "Notebook 3, image 11",
+    "type": "clinical",
+    "condition": "Gallbladder stone (पित्ताशय की पथरी)",
+    "remedies": [
+      {
+        "name": "Cholesterinum",
+        "potency": "3x",
+        "note": "With Fel Tauri; 2 tablets three times."
+      },
+      {
+        "name": "Fel Tauri",
+        "potency": "3x",
+        "note": "With Cholesterinum.",
+        "flag": "written 'Fele turi'"
+      },
+      {
+        "name": "Chelidonium",
+        "potency": "mother tincture (Q)",
+        "note": "With Boldo; 10 drops three times."
+      },
+      {
+        "name": "Boldo",
+        "potency": "mother tincture (Q)",
+        "note": "With Chelidonium."
+      }
+    ],
+    "raw_text": "Cholesterinum 3x + Fel Tauri 3x (2 tablets three times), Chelidonium + Boldo Q mix (10 drops three times)."
+  },
+  {
+    "id": "hp3-070",
+    "source_pdf": "Homeopathy_3",
+    "page": 11,
+    "date": null,
+    "date_raw": "Notebook 3, image 11",
+    "type": "clinical",
+    "condition": "Facial wrinkles (चेहरे की झुर्रियां)",
+    "remedies": [
+      {
+        "name": "Natrum Muriaticum",
+        "potency": "30",
+        "note": "Equal mix; 5 drops three times for 2 months."
+      },
+      {
+        "name": "Calcarea Fluorica",
+        "potency": "30",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Silicea",
+        "potency": "30",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Thuja",
+        "potency": "30",
+        "note": "Equal mix."
+      }
+    ],
+    "raw_text": "Nat Mur 30 + Calc Fluor 30 + Silicea 30 + Thuja 30 mix: 5 drops three times daily for 2 months."
+  },
+  {
+    "id": "hp3-071",
+    "source_pdf": "Homeopathy_3",
+    "page": 11,
+    "date": null,
+    "date_raw": "Notebook 3, image 11",
+    "type": "clinical",
+    "condition": "Mouth ulcers (मुँह के छाले)",
+    "remedies": [
+      {
+        "name": "Medorrhinum",
+        "potency": "1M",
+        "note": "3-4 drops every 4 days."
+      },
+      {
+        "name": "Mercurius Solubilis",
+        "potency": "30",
+        "note": "Alternating with Borax every 4 hours."
+      },
+      {
+        "name": "Borax",
+        "potency": "30",
+        "note": "Alternating with Merc Sol."
+      }
+    ],
+    "raw_text": "Medorrhinum 1M (3-4 drops every 4 days), Merc Sol 30 & Borax 30 alternating every 4 hours."
+  },
+  {
+    "id": "hp3-072",
+    "source_pdf": "Homeopathy_3",
+    "page": 11,
+    "date": null,
+    "date_raw": "Notebook 3, image 11",
+    "type": "clinical",
+    "condition": "Depression / anxiety / insomnia",
+    "remedies": [
+      {
+        "name": "Serotoninum",
+        "potency": "30",
+        "note": "With Anacardium; 4 drops.",
+        "flag": "name uncertain"
+      },
+      {
+        "name": "Anacardium",
+        "potency": "30",
+        "note": "With Serotoninum."
+      },
+      {
+        "name": "Ginkgo Biloba",
+        "potency": "mother tincture (Q)",
+        "note": "15 drops for two months."
+      }
+    ],
+    "raw_text": "Serotoninum 30 + Anacardium 30 mix (4 drops), Ginkgo Biloba Q (15 drops for two months)."
+  },
+  {
+    "id": "hp3-073",
+    "source_pdf": "Homeopathy_3",
+    "page": 12,
+    "date": null,
+    "date_raw": "Notebook 3, image 12",
+    "type": "clinical",
+    "condition": "Neck pain L1-L2 / dizziness (गर्दन दर्द, चक्कर)",
+    "remedies": [
+      {
+        "name": "Arnica",
+        "potency": "200",
+        "note": "Morning & evening."
+      },
+      {
+        "name": "Kalmia Latifolia",
+        "potency": "30",
+        "note": "Alternating with Conium.",
+        "flag": "written 'Kalima'"
+      },
+      {
+        "name": "Conium Maculatum",
+        "potency": "30",
+        "note": "Alternating with Kalmia."
+      },
+      {
+        "name": "Lachnanthes Tinctoria",
+        "potency": "30",
+        "note": "Dizziness; morning & night.",
+        "flag": "written 'Lachenthus'"
+      },
+      {
+        "name": "Guaiacum",
+        "potency": "30",
+        "note": "Pain radiating to hands."
+      }
+    ],
+    "raw_text": "Arnica 200 (morning & evening), Kalmia 30 & Conium 30 alternating every 2 hours. Dizziness: Lachnanthes 30 (morning & night). Pain into hands: Guaiacum 30."
+  },
+  {
+    "id": "hp3-074",
+    "source_pdf": "Homeopathy_3",
+    "page": 12,
+    "date": null,
+    "date_raw": "Notebook 3, image 12",
+    "type": "clinical",
+    "condition": "Enlarged heart (हार्ट साइज बढ़ना)",
+    "remedies": [
+      {
+        "name": "Bromium",
+        "potency": "30",
+        "note": "3-4 drops every 4 hours."
+      }
+    ],
+    "raw_text": "Bromium 30: 3-4 drops every 4 hours."
+  },
+  {
+    "id": "hp3-075",
+    "source_pdf": "Homeopathy_3",
+    "page": 12,
+    "date": null,
+    "date_raw": "Notebook 3, image 12",
+    "type": "clinical",
+    "condition": "Obesity (मोटापा)",
+    "remedies": [
+      {
+        "name": "Phytolacca Berry",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix; 10 drops three times."
+      },
+      {
+        "name": "Fucus Vesiculosus",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Pulsatilla",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      }
+    ],
+    "raw_text": "Phytolacca Berry Q + Fucus Q + Pulsatilla Q equal mix: 10 drops three times daily."
+  },
+  {
+    "id": "hp3-076",
+    "source_pdf": "Homeopathy_3",
+    "page": 12,
+    "date": null,
+    "date_raw": "Notebook 3, image 12",
+    "type": "clinical",
+    "condition": "Nerve spasms / jerks (नसों में झटका)",
+    "remedies": [
+      {
+        "name": "Zincum Metallicum",
+        "potency": "3x",
+        "note": "Nerve spasms / jerks."
+      }
+    ],
+    "raw_text": "Zincum Met 3x."
+  },
+  {
+    "id": "hp3-077",
+    "source_pdf": "Homeopathy_3",
+    "page": 12,
+    "date": null,
+    "date_raw": "Notebook 3, image 12",
+    "type": "clinical",
+    "condition": "Chicken pox",
+    "remedies": [
+      {
+        "name": "Variolinum",
+        "potency": "200",
+        "note": "Preventive.",
+        "flag": "written 'Varrilnum'"
+      },
+      {
+        "name": "Antimonium Tartaricum",
+        "potency": "30",
+        "note": "If contracted."
+      },
+      {
+        "name": "Bryonia",
+        "potency": "30",
+        "note": "If contracted."
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "potency": "30",
+        "note": "If contracted."
+      },
+      {
+        "name": "Calcarea Phosphorica",
+        "potency": "6x",
+        "note": "Supportive."
+      }
+    ],
+    "raw_text": "Preventive: Variolinum 200. If contracted: Antim Tart 30, Bryonia 30, Rhus Tox 30, plus Calc Phos 6x."
+  },
+  {
+    "id": "hp3-078",
+    "source_pdf": "Homeopathy_3",
+    "page": 12,
+    "date": null,
+    "date_raw": "Notebook 3, image 12",
+    "type": "clinical",
+    "condition": "Arthritis",
+    "remedies": [
+      {
+        "name": "Ruta",
+        "potency": "200",
+        "note": "4 drops morning & evening."
+      },
+      {
+        "name": "Arnica",
+        "potency": "200",
+        "note": "4 drops morning & evening."
+      },
+      {
+        "name": "Kali Iodatum",
+        "potency": "30",
+        "note": "Stiffness / swelling in knees."
+      }
+    ],
+    "raw_text": "Ruta 200, Arnica 200 (4 drops morning & evening). Kali Iod 30 (stiffness/swelling in knees)."
+  },
+  {
+    "id": "hp3-079",
+    "source_pdf": "Homeopathy_3",
+    "page": 12,
+    "date": null,
+    "date_raw": "Notebook 3, image 12",
+    "type": "clinical",
+    "condition": "Fish bone stuck in throat",
+    "remedies": [
+      {
+        "name": "Silicea",
+        "potency": "200",
+        "note": "3-4 drops morning & evening."
+      },
+      {
+        "name": "Nitricum Acidum",
+        "potency": "30",
+        "note": "3-4 drops many times a day."
+      }
+    ],
+    "raw_text": "Silicea 200 (morning & evening), Nitric Acid 30 (3-4 drops many times)."
+  },
+  {
+    "id": "hp3-080",
+    "source_pdf": "Homeopathy_3",
+    "page": 12,
+    "date": null,
+    "date_raw": "Notebook 3, image 12",
+    "type": "clinical",
+    "condition": "Diabetic impotence",
+    "remedies": [
+      {
+        "name": "Coca",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops morning & afternoon."
+      }
+    ],
+    "raw_text": "Coca Q: 10 drops morning & afternoon."
+  },
+  {
+    "id": "hp3-081",
+    "source_pdf": "Homeopathy_3",
+    "page": 13,
+    "date": null,
+    "date_raw": "Notebook 3, image 13",
+    "type": "clinical",
+    "condition": "Body lumps / Lipoma (शरीर में गांठें)",
+    "remedies": [
+      {
+        "name": "Thuja",
+        "potency": "200",
+        "note": "2-3 drops daily."
+      },
+      {
+        "name": "Calcarea Fluorica",
+        "potency": "6x / 30",
+        "note": "4 tablets every 4 hours; 30 for hard lumps."
+      },
+      {
+        "name": "Lapis Albus",
+        "potency": "30",
+        "note": "Soft lumps; 4 drops three times.",
+        "flag": "written 'Lepus albus'"
+      },
+      {
+        "name": "Silicea",
+        "potency": "30",
+        "note": "Lumps on palms."
+      }
+    ],
+    "raw_text": "Thuja 200 (daily), Calc Fluor 6x (4 tablets every 4 hours). Hard lumps: Calcarea Fluor 30. Soft lumps: Lapis Albus 30 (4 drops three times). Palms: Silicea 30."
+  },
+  {
+    "id": "hp3-082",
+    "source_pdf": "Homeopathy_3",
+    "page": 13,
+    "date": null,
+    "date_raw": "Notebook 3, image 13",
+    "type": "clinical",
+    "condition": "Hysteria / nerve disorders / spasms / muscle pain",
+    "remedies": [
+      {
+        "name": "Valeriana Officinalis",
+        "potency": "mother tincture (Q)",
+        "note": "Hysteria, nerve disorders, spasms, nervous weakness, muscle pain."
+      }
+    ],
+    "raw_text": "Valeriana Officinalis Q."
+  },
+  {
+    "id": "hp3-083",
+    "source_pdf": "Homeopathy_3",
+    "page": 13,
+    "date": null,
+    "date_raw": "Notebook 3, image 13",
+    "type": "clinical",
+    "condition": "Painful menstruation (कष्टदायक मेंस)",
+    "remedies": [
+      {
+        "name": "Viburnum Opulus",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops morning & night."
+      },
+      {
+        "name": "Janosia Ashoka",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops morning & night.",
+        "flag": "written 'Janesia ashoka'"
+      },
+      {
+        "name": "Senecio Aureus",
+        "potency": "6",
+        "note": "For pain."
+      }
+    ],
+    "raw_text": "Viburnum Opulus Q (10 drops morning & night), Janosia Ashoka Q (10 drops morning & night). Pain: Senecio Aur 6."
+  },
+  {
+    "id": "hp3-084",
+    "source_pdf": "Homeopathy_3",
+    "page": 13,
+    "date": null,
+    "date_raw": "Notebook 3, image 13",
+    "type": "clinical",
+    "condition": "Parkinson's",
+    "remedies": [
+      {
+        "name": "Codeinum",
+        "potency": "30",
+        "note": "Alternating with Zincum Met.",
+        "flag": "written 'Codenum'"
+      },
+      {
+        "name": "Zincum Metallicum",
+        "potency": "30",
+        "note": "Alternating with Codeinum."
+      },
+      {
+        "name": "Stramonium",
+        "potency": "200",
+        "note": "Morning & evening.",
+        "flag": "written 'Stemonum met'"
+      },
+      {
+        "name": "Gelsemium",
+        "potency": "6",
+        "note": "10 drops three times."
+      }
+    ],
+    "raw_text": "Codeinum 30 & Zincum Met 30 alternating every 4 hours. Stramonium 200 (morning & evening). Gelsemium 6 (10 drops three times)."
+  },
+  {
+    "id": "hp3-085",
+    "source_pdf": "Homeopathy_3",
+    "page": 13,
+    "date": null,
+    "date_raw": "Notebook 3, image 13",
+    "type": "clinical",
+    "condition": "Antioxidant",
+    "remedies": [
+      {
+        "name": "Spirulina",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops morning & evening.",
+        "flag": "written 'Sprilina'"
+      },
+      {
+        "name": "Ginkgo Biloba",
+        "potency": "mother tincture (Q)",
+        "note": "10 drops."
+      }
+    ],
+    "raw_text": "Spirulina Q (10 drops morning & evening), Ginkgo Biloba Q (10 drops)."
+  },
+  {
+    "id": "hp3-086",
+    "source_pdf": "Homeopathy_3",
+    "page": 13,
+    "date": null,
+    "date_raw": "Notebook 3, image 13",
+    "type": "clinical",
+    "condition": "Uric acid",
+    "remedies": [
+      {
+        "name": "Benzoicum Acidum",
+        "potency": "30",
+        "note": "Morning."
+      },
+      {
+        "name": "Ledum Palustre",
+        "potency": "30",
+        "note": "Afternoon."
+      },
+      {
+        "name": "Colchicum",
+        "potency": "30",
+        "note": "Night."
+      },
+      {
+        "name": "Urtica Urens",
+        "potency": "mother tincture (Q)",
+        "note": "15 drops in water morning & evening."
+      }
+    ],
+    "raw_text": "Benzoicum Acidum 30 (morning), Ledum P 30 (afternoon), Colchicum 30 (night). Urtica Urens Q (15 drops in water morning & evening)."
+  },
+  {
+    "id": "hp3-087",
+    "source_pdf": "Homeopathy_3",
+    "page": 13,
+    "date": null,
+    "date_raw": "Notebook 3, image 13",
+    "type": "clinical",
+    "condition": "Arthritic pain (गठिया दर्द)",
+    "remedies": [
+      {
+        "name": "Arnica",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix; 10 drops three times."
+      },
+      {
+        "name": "Ginkgo Biloba",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Hypericum",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      }
+    ],
+    "raw_text": "Arnica Q + Ginkgo Biloba Q + Hypericum Q mix: 10 drops three times in water."
+  },
+  {
+    "id": "hp3-088",
+    "source_pdf": "Homeopathy_3",
+    "page": 13,
+    "date": null,
+    "date_raw": "Notebook 3, image 13",
+    "type": "clinical",
+    "condition": "Gout (गठिया)",
+    "remedies": [
+      {
+        "name": "Formica Rufa",
+        "potency": "mother tincture (Q)",
+        "note": "Gout.",
+        "flag": "written 'Acid Formica'"
+      }
+    ],
+    "raw_text": "Formica Rufa Q (Acidum Formicum)."
+  },
+  {
+    "id": "hp3-089",
+    "source_pdf": "Homeopathy_3",
+    "page": 14,
+    "date": null,
+    "date_raw": "Notebook 3, image 14",
+    "type": "clinical",
+    "condition": "Enlarged tonsils (टॉन्सिल बढ़ना)",
+    "remedies": [
+      {
+        "name": "Baryta Carbonica",
+        "potency": "200",
+        "note": "Morning."
+      },
+      {
+        "name": "Baryta Iodata",
+        "potency": "200",
+        "note": "Night."
+      }
+    ],
+    "raw_text": "Baryta Carb 200 (morning), Baryta Iod 200 (night): 2-3 drops."
+  },
+  {
+    "id": "hp3-090",
+    "source_pdf": "Homeopathy_3",
+    "page": 14,
+    "date": null,
+    "date_raw": "Notebook 3, image 14",
+    "type": "clinical",
+    "condition": "Stomach worms (पेट में कीड़े)",
+    "remedies": [
+      {
+        "name": "Santoninum",
+        "potency": "30",
+        "note": "Stomach worms."
+      }
+    ],
+    "raw_text": "Santoninum 30."
+  },
+  {
+    "id": "hp3-091",
+    "source_pdf": "Homeopathy_3",
+    "page": 14,
+    "date": null,
+    "date_raw": "Notebook 3, image 14",
+    "type": "clinical",
+    "condition": "Hair weakness / dead skin / wrinkles / freckles",
+    "remedies": [
+      {
+        "name": "Rosmarinus Officinalis",
+        "potency": "mother tincture (Q) / 30",
+        "note": "Topical in coconut oil; also 30 potency internally."
+      }
+    ],
+    "raw_text": "Rosmarinus Off Q: in 100ml coconut oil, apply to roots at night, wash in morning; also 30 potency 3-4 drops three times daily."
+  },
+  {
+    "id": "hp3-092",
+    "source_pdf": "Homeopathy_3",
+    "page": 14,
+    "date": null,
+    "date_raw": "Notebook 3, image 14",
+    "type": "clinical",
+    "condition": "Anaemia (खून की कमी)",
+    "remedies": [
+      {
+        "name": "Ferrum Metallicum",
+        "potency": "30",
+        "note": "Equal mix; morning & evening."
+      },
+      {
+        "name": "China",
+        "potency": "30",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Phosphorus",
+        "potency": "30",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Ferrum Phosphoricum",
+        "potency": "6x",
+        "note": "4 tablets every 4 hours."
+      }
+    ],
+    "raw_text": "Ferrum Met 30 + China 30 + Phosphorus 30 mix (morning & evening), Ferrum Phos 6x (4 tablets every 4 hours)."
+  },
+  {
+    "id": "hp3-093",
+    "source_pdf": "Homeopathy_3",
+    "page": 14,
+    "date": null,
+    "date_raw": "Notebook 3, image 14",
+    "type": "clinical",
+    "condition": "Kidneys (किडनी)",
+    "remedies": [
+      {
+        "name": "Berberis Vulgaris",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix; 10 drops morning & evening."
+      },
+      {
+        "name": "Alserum",
+        "potency": "7x",
+        "note": "Equal mix. Name unclear.",
+        "flag": "name uncertain"
+      },
+      {
+        "name": "Urtica Urens",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Solidago",
+        "potency": "mother tincture (Q)",
+        "note": "Equal mix.",
+        "flag": "written 'Soldiago'"
+      },
+      {
+        "name": "Wheezal Renal Drops",
+        "potency": null,
+        "note": "Proprietary; 15 drops three times.",
+        "flag": "proprietary"
+      }
+    ],
+    "raw_text": "Berberis Q + Alserum 7x + Urtica Urens Q + Solidago Q mix (10 drops morning & evening). Wheezal Renal Drops (15 drops three times).",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-094",
+    "source_pdf": "Homeopathy_3",
+    "page": 14,
+    "date": null,
+    "date_raw": "Notebook 3, image 14",
+    "type": "clinical",
+    "condition": "Knee pain / cartilage protection",
+    "remedies": [
+      {
+        "name": "Guaiacum",
+        "potency": "200",
+        "note": "Equal mix; 3-4 drops three times."
+      },
+      {
+        "name": "Arnica",
+        "potency": "200",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Ruta",
+        "potency": "200",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "potency": "200",
+        "note": "Equal mix."
+      }
+    ],
+    "raw_text": "Guaiacum 200 + Arnica 200 + Ruta 200 + Rhus Tox 200 mix: 3-4 drops three times daily."
+  },
+  {
+    "id": "hp3-095",
+    "source_pdf": "Homeopathy_3",
+    "page": 14,
+    "date": null,
+    "date_raw": "Notebook 3, image 14",
+    "type": "clinical",
+    "condition": "Low BP",
+    "remedies": [
+      {
+        "name": "Argentum Nitricum",
+        "potency": "30",
+        "note": "3 doses every 15 minutes."
+      }
+    ],
+    "raw_text": "Argentum Nit 30: 3 doses every 15 minutes."
+  },
+  {
+    "id": "hp3-096",
+    "source_pdf": "Homeopathy_3",
+    "page": 14,
+    "date": null,
+    "date_raw": "Notebook 3, image 14",
+    "type": "clinical",
+    "condition": "Gynaecological fibroid",
+    "remedies": [
+      {
+        "name": "Thlaspi Bursa Pastoris",
+        "potency": null,
+        "note": "Fibroid.",
+        "flag": "written 'Thalsni bursa'"
+      }
+    ],
+    "raw_text": "Thlaspi Bursa Pastoris."
+  },
+  {
+    "id": "hp3-097",
+    "source_pdf": "Homeopathy_3",
+    "page": 14,
+    "date": null,
+    "date_raw": "Notebook 3, image 14",
+    "type": "clinical",
+    "condition": "Fatty liver",
+    "remedies": [
+      {
+        "name": "Lycopodium",
+        "potency": "1M",
+        "note": "1-2 drops once a week."
+      },
+      {
+        "name": "Chelidonium",
+        "potency": "mother tincture (Q)",
+        "note": "20 drops in water three times."
+      }
+    ],
+    "raw_text": "Lycopodium 1M (1-2 drops once a week), Chelidonium Q (20 drops in water three times)."
+  },
+  {
+    "id": "hp3-098",
+    "source_pdf": "Homeopathy_3",
+    "page": 15,
+    "date": null,
+    "date_raw": "Notebook 3, image 15",
+    "type": "clinical",
+    "condition": "Paralysis (लकवा)",
+    "remedies": [
+      {
+        "name": "Arnica",
+        "potency": "200",
+        "note": "Left-side paralysis; morning."
+      },
+      {
+        "name": "Lachesis",
+        "potency": "30",
+        "note": "Afternoon/night for 3 months."
+      },
+      {
+        "name": "Gelsemium",
+        "potency": "6",
+        "note": "10 drops three times."
+      },
+      {
+        "name": "Bothrops Lanceolatus",
+        "potency": "200",
+        "note": "If speech and movement halted."
+      }
+    ],
+    "raw_text": "Left side: Arnica 200 (morning), Lachesis 30 (afternoon/night) for 3 months, Gelsemium 6 (10 drops three times), Bothrops L 200 (if speech and body halted)."
+  },
+  {
+    "id": "hp3-099",
+    "source_pdf": "Homeopathy_3",
+    "page": 15,
+    "date": null,
+    "date_raw": "Notebook 3, image 15",
+    "type": "clinical",
+    "condition": "Baldness (गंजापन)",
+    "remedies": [
+      {
+        "name": "Phosphorus",
+        "potency": "30",
+        "note": "Equal mix in water."
+      },
+      {
+        "name": "Natrum Muriaticum",
+        "potency": "30",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Jaborandi",
+        "potency": "30",
+        "note": "Equal mix."
+      }
+    ],
+    "raw_text": "Phosphorus 30 + Nat Mur 30 + Jaborandi 30: 2 drops of each in a tablespoon of water."
+  },
+  {
+    "id": "hp3-100",
+    "source_pdf": "Homeopathy_3",
+    "page": 15,
+    "date": null,
+    "date_raw": "Notebook 3, image 15",
+    "type": "clinical",
+    "condition": "Gonorrhoea / typhoid / piles / ulcer / migraine / whooping cough",
+    "remedies": [
+      {
+        "name": "Ficus Religiosa",
+        "potency": "mother tincture (Q)",
+        "note": "With Ficus Indica; 15 drops three times."
+      },
+      {
+        "name": "Ficus Indica",
+        "potency": "mother tincture (Q)",
+        "note": "With Ficus Religiosa."
+      }
+    ],
+    "raw_text": "Ficus Religiosa Q + Ficus Indica Q mix: 15 drops three times in water."
+  },
+  {
+    "id": "hp3-101",
+    "source_pdf": "Homeopathy_3",
+    "page": 15,
+    "date": null,
+    "date_raw": "Notebook 3, image 15",
+    "type": "clinical",
+    "condition": "Ovarian cyst / irregular periods (अंडाशय सिस्ट)",
+    "remedies": [
+      {
+        "name": "Oophorinum",
+        "potency": "30",
+        "note": "4 drops morning & evening.",
+        "flag": "written 'Overinum'"
+      },
+      {
+        "name": "Apis Mellifica",
+        "potency": "30",
+        "note": "Right-side cyst / pain."
+      },
+      {
+        "name": "Palladium",
+        "potency": "30",
+        "note": "Right-side cyst / pain."
+      }
+    ],
+    "raw_text": "Oophorinum 30 (4 drops morning & evening). Right side cyst/pain: Apis M 30 & Palladium 30."
+  },
+  {
+    "id": "hp3-102",
+    "source_pdf": "Homeopathy_3",
+    "page": 15,
+    "date": null,
+    "date_raw": "Notebook 3, image 15",
+    "type": "clinical",
+    "condition": "Weak hair / nails",
+    "remedies": [
+      {
+        "name": "Selenium",
+        "potency": "30",
+        "note": "Weak hair and nails.",
+        "flag": "written 'Selinium'"
+      }
+    ],
+    "raw_text": "Selenium 30."
+  },
+  {
+    "id": "hp3-103",
+    "source_pdf": "Homeopathy_3",
+    "page": 15,
+    "date": null,
+    "date_raw": "Notebook 3, image 15",
+    "type": "clinical",
+    "condition": "Menstrual problems",
+    "remedies": [
+      {
+        "name": "Janosia Ashoka",
+        "potency": "mother tincture (Q)",
+        "note": "Alternately; 10 drops.",
+        "flag": "written 'J ashoka'"
+      },
+      {
+        "name": "Gossypium Herbaceum",
+        "potency": "mother tincture (Q)",
+        "note": "Alternately; 10 drops."
+      }
+    ],
+    "raw_text": "Janosia Ashoka Q & Gossypium H Q alternately: 10 drops each."
+  },
+  {
+    "id": "hp3-104",
+    "source_pdf": "Homeopathy_3",
+    "page": 15,
+    "date": null,
+    "date_raw": "Notebook 3, image 15",
+    "type": "clinical",
+    "condition": "Allergies (एलर्जी)",
+    "remedies": [
+      {
+        "name": "Natrum Muriaticum",
+        "potency": "30",
+        "note": "Allergies."
+      },
+      {
+        "name": "Dulcamara",
+        "potency": null,
+        "note": "Allergies."
+      }
+    ],
+    "raw_text": "Nat Mur 30, Dulcamara."
+  },
+  {
+    "id": "hp3-105",
+    "source_pdf": "Homeopathy_3",
+    "page": 16,
+    "date": null,
+    "date_raw": "Notebook 3, image 16",
+    "type": "clinical",
+    "condition": "Heel pain / bone spur (एड़ी में दर्द)",
+    "remedies": [
+      {
+        "name": "Arnica",
+        "potency": "30",
+        "note": "Heel pain."
+      },
+      {
+        "name": "Calcarea Fluorica",
+        "potency": "30 / 200",
+        "note": "Heel pain; 200 for bone spur (morning)."
+      },
+      {
+        "name": "Ruta",
+        "potency": "30",
+        "note": "Bone spur; 3 hours after Calc Fluor.",
+        "flag": "written 'Ruta g'"
+      },
+      {
+        "name": "Phytolacca",
+        "potency": "30",
+        "note": "Bone spur; three times daily."
+      },
+      {
+        "name": "Arenia did",
+        "potency": "30",
+        "note": "Heel pain. Name unclear.",
+        "flag": "name uncertain"
+      }
+    ],
+    "raw_text": "Arnica 30 + Calc Fluor 30 (+ 'Arenia did' 30). Bone spur: Calcarea Fluor 200 (morning), Ruta G 30 (3 hrs later), Phytolacca 30 (three times daily).",
+    "needs_review": true
+  },
+  {
+    "id": "hp3-106",
+    "source_pdf": "Homeopathy_3",
+    "page": 16,
+    "date": null,
+    "date_raw": "Notebook 3, image 16",
+    "type": "clinical",
+    "condition": "Cough with phlegm (कफ खांसी)",
+    "remedies": [
+      {
+        "name": "Kali Bichromicum",
+        "potency": "30",
+        "note": "Alternately with Spongia."
+      },
+      {
+        "name": "Spongia",
+        "potency": "30",
+        "note": "Alternately."
+      },
+      {
+        "name": "Antimonium Tartaricum",
+        "potency": "30",
+        "note": "Dry cough; alternately every 2 hours."
+      },
+      {
+        "name": "Bryonia",
+        "potency": "30",
+        "note": "Dry cough; alternately."
+      }
+    ],
+    "raw_text": "Kali Bichrom 30 & Spongia 30 alternately. Dry cough: Antim Tart 30, Bryonia 30, Spongia 30 alternately every 2 hours."
+  },
+  {
+    "id": "hp3-107",
+    "source_pdf": "Homeopathy_3",
+    "page": 16,
+    "date": null,
+    "date_raw": "Notebook 3, image 16",
+    "type": "clinical",
+    "condition": "Lung phlegm / breathlessness",
+    "remedies": [
+      {
+        "name": "Blatta Orientalis",
+        "potency": "mother tincture (Q)",
+        "note": "With Aspidosperma; 10 drops three times."
+      },
+      {
+        "name": "Aspidosperma",
+        "potency": "mother tincture (Q)",
+        "note": "With Blatta Orientalis."
+      }
+    ],
+    "raw_text": "Blatta Orientalis Q + Aspidosperma Q: 10 drops three times."
+  },
+  {
+    "id": "hp3-108",
+    "source_pdf": "Homeopathy_3",
+    "page": 16,
+    "date": null,
+    "date_raw": "Notebook 3, image 16",
+    "type": "clinical",
+    "condition": "Osteoarthritis",
+    "remedies": [
+      {
+        "name": "Osteoarthritis nosode",
+        "potency": "200",
+        "note": "3-4 drops once a week.",
+        "flag": "nosode"
+      },
+      {
+        "name": "Arnica",
+        "potency": "200",
+        "note": "Equal mix; 4-5 drops daily."
+      },
+      {
+        "name": "Guaiacum",
+        "potency": "200",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Ruta",
+        "potency": "200",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Rhus Toxicodendron",
+        "potency": "200",
+        "note": "Equal mix."
+      },
+      {
+        "name": "Stellaria Media",
+        "potency": "30",
+        "note": "Shifting pain.",
+        "flag": "written 'Stleria media'"
+      }
+    ],
+    "raw_text": "Osteoarthritis nosode 200 (3-4 drops once a week). Arnica + Guaiacum + Ruta + Rhus Tox 200 mix (4-5 drops daily). Shifting pain: Stellaria Media 30."
+  },
+  {
+    "id": "hp3-109",
+    "source_pdf": "Homeopathy_3",
+    "page": 16,
+    "date": null,
+    "date_raw": "Notebook 3, image 16",
+    "type": "clinical",
+    "condition": "Diabetic neuropathy (नसों की कमजोरी)",
+    "remedies": [
+      {
+        "name": "Hypericum",
+        "potency": "30",
+        "note": "2-3 drops morning & evening."
+      },
+      {
+        "name": "Acidum Phosphoricum",
+        "potency": "6 / Q",
+        "note": "20 drops in water morning & evening."
+      },
+      {
+        "name": "Kali Phosphoricum",
+        "potency": "6x",
+        "note": "Alongside."
+      }
+    ],
+    "raw_text": "Hypericum 30 (morning & evening), Acid Phos Q or 6 (20 drops in water morning & evening), Kali Phos 6x alongside."
+  },
+  {
+    "id": "hp3-110",
+    "source_pdf": "Homeopathy_3",
+    "page": 16,
+    "date": null,
+    "date_raw": "Notebook 3, image 16",
+    "type": "clinical",
+    "condition": "Weak bladder / urinary incontinence",
+    "remedies": [
+      {
+        "name": "Gelsemium",
+        "potency": "30",
+        "note": "Alternating with Causticum, 3 times."
+      },
+      {
+        "name": "Causticum",
+        "potency": "30",
+        "note": "Alternating with Gelsemium."
+      },
+      {
+        "name": "Squilla Maritima",
+        "potency": "mother tincture (Q)",
+        "note": "15 drops morning & evening.",
+        "flag": "written 'Squila maratina'"
+      },
+      {
+        "name": "Litrius spicata",
+        "potency": "mother tincture (Q)",
+        "note": "Swelling, frequent urination. Name unclear.",
+        "flag": "name uncertain"
+      },
+      {
+        "name": "Rhus Aromatica",
+        "potency": "30",
+        "note": "Bedwetting in children and adults."
+      }
+    ],
+    "raw_text": "Gelsemium 30 & Causticum 30 alternately 3 times. Squilla Maritima Q (15 drops morning & evening). Litrius spicata Q (swelling, frequent urination). Rhus Aromatica 30 (bedwetting)."
   }
 ]
